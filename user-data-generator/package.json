@@ -1,0 +1,23 @@
+{
+  "name": "user-data-generator",
+  "version": "1.0.0",
+  "description": "Generate random user food choice data.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "hackathon",
+    "user-data"
+  ],
+  "author": "minhthai",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.0.4",
+    "fs-extra": "^1.0.0"
+  }
+}
