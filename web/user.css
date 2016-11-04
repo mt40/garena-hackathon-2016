@@ -1,0 +1,15 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.glyphicon-chevron-left, .glyphicon-chevron-right {
+  margin-top: 50%;
+  font-size: 4em;
+  color: lightgray;
+}
+
+h2 {
+  font-size: 3em;
+  font-weight: bold;
+}
