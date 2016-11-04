@@ -273,4 +273,17 @@ CREATE INDEX ON :Champion(usage);
 
 MATCH (u: GarenaUID)
 REMOVE u.uid
+
+// dedup
+MATCH (g:Champion) 
+WITH g.champion_idid as id, collect(g) AS nodes 
+WHERE size(nodes) >  1
+RETURN nodes;
+
+MATCH (g: Champion) 
+WITH g.champion_id as id, collect(g) AS nodes 
+WHERE size(nodes) >  1
+FOREACH (g in tail(nodes) | DETACH DELETE g)
 ;
+
+
