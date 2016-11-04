@@ -1,0 +1,38 @@
+
+
+.popup {
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  background-color: transparent;
+  height: 100%;
+  width: 100%;
+  z-index: 99;
+}
+
+.popup-mask {
+  background-color: black;
+  height: 100%;
+  width: 100%;
+  opacity: 0.5;
+}
+
+.popup-close-btn {
+  position: fixed;
+  top: 2%;
+  right: 2%;
+  background: darkgray;
+  border: 0;
+  color: white;
+}
+
+.popup-content {
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  background-color: white;
+  height: 80%;
+  width: 80%;
+  box-shadow: 2px 2px 47px -8px rgba(0,0,0,0.75);
+  border-radius: 0.5%;
+}

@@ -1,0 +1,10 @@
+.login-container {
+  position:absolute;
+  top: 25%;
+  left: 30%;
+  width: 35%;
+}
+
+.form-control {
+  width: 100%;
+}
