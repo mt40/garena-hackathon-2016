@@ -1,0 +1,745 @@
+Index,English_Discription,Tag
+1,[Halal] Crispy Breaded Fish,fish
+1,[Halal] Crispy Breaded Fish,halal
+1,[Halal] Crispy Breaded Fish,western
+2,[Halal] Hot Plate Chicken Set,chicken
+2,[Halal] Hot Plate Chicken Set,halal
+2,[Halal] Hot Plate Chicken Set,japanese
+3,[Halal] Scallop & Chicken Bento,chicken
+3,[Halal] Scallop & Chicken Bento,halal
+3,[Halal] Scallop & Chicken Bento,japanese
+4,[Vegetarian] Tofu with Mushroom Bento,vegeatarian
+4,[Vegetarian] Tofu with Mushroom Bento,local items
+5,"1 Bun (Double Cooked Sliced Pork, Kung Pao Chicken,  Fried Chinese cabbage)",chicken
+5,"1 Bun (Double Cooked Sliced Pork, Kung Pao Chicken,  Fried Chinese cabbage)",pork
+5,"1 Bun (Double Cooked Sliced Pork, Kung Pao Chicken,  Fried Chinese cabbage)",bun
+5,"1 Bun (Double Cooked Sliced Pork, Kung Pao Chicken,  Fried Chinese cabbage)",chinese
+6,"1 Bun (Sliced Fungus with Meat, Fish Flavored Shredded Pork, Green pepper with Beancurd skin)",pork
+6,"1 Bun (Sliced Fungus with Meat, Fish Flavored Shredded Pork, Green pepper with Beancurd skin)",chinese
+7,"2 Buns (Cumin Beef, Fried Cucumber with eggs, Sweet & Sour Cabbage)",beef
+7,"2 Buns (Cumin Beef, Fried Cucumber with eggs, Sweet & Sour Cabbage)",bun
+7,"2 Buns (Cumin Beef, Fried Cucumber with eggs, Sweet & Sour Cabbage)",chinese
+8,"2 Buns (Cumin Beef, Kung Pao Chicken, Fried Chinese cabbage)",beef
+8,"2 Buns (Cumin Beef, Kung Pao Chicken, Fried Chinese cabbage)",chicken
+8,"2 Buns (Cumin Beef, Kung Pao Chicken, Fried Chinese cabbage)",bun
+8,"2 Buns (Cumin Beef, Kung Pao Chicken, Fried Chinese cabbage)",chinese
+9,"2 Buns (Vermicelli with minced pork, Double Cooked Sliced Pork, Sweet & Sour Cabbage)",pork
+9,"2 Buns (Vermicelli with minced pork, Double Cooked Sliced Pork, Sweet & Sour Cabbage)",bun
+9,"2 Buns (Vermicelli with minced pork, Double Cooked Sliced Pork, Sweet & Sour Cabbage)",chinese
+10,Braised Beef Noodle,beef
+10,Braised Beef Noodle,noodle
+10,Braised Beef Noodle,chinese
+11,Braised Chicken with Chef Special Sauce Bento,chicken
+11,Braised Chicken with Chef Special Sauce Bento,chinese
+12,Braised Pork Rib Noodle,pork
+12,Braised Pork Rib Noodle,noodle
+12,Braised Pork Rib Noodle,chinese
+13,Chicken Curry Rice,chicken
+13,Chicken Curry Rice,rice
+13,Chicken Curry Rice,japanese
+14,Chicken Mushroom Pasta,chicken
+14,Chicken Mushroom Pasta,western
+15,Deep Fried Dumplings (6pcs),chinese
+16,Fine Handmade Shandong Pancake,chinese
+17,Fish Fragrance Shredded Pork,pork
+17,Fish Fragrance Shredded Pork,chinese
+18,Fried Carrot Cake,local items
+19,Fried Hokkien Prawn Mee,local items
+20,Fried Kway Teow,local items
+21,Fried Pork Slices w Salted Pepper w Rice,pork
+21,Fried Pork Slices w Salted Pepper w Rice,rice
+21,Fried Pork Slices w Salted Pepper w Rice,chinese
+22,Fried Rice w Sliced Pork,pork
+22,Fried Rice w Sliced Pork,rice
+22,Fried Rice w Sliced Pork,chinese
+23,Fried Rice with Tomato and Egg,chicken
+23,Fried Rice with Tomato and Egg,rice
+23,Fried Rice with Tomato and Egg,chinese
+24,Ginger & Scallions Beef w Rice,beef
+24,Ginger & Scallions Beef w Rice,rice
+24,Ginger & Scallions Beef w Rice,chinese
+25,Gongbao Chicken,chicken
+25,Gongbao Chicken,chinese
+26,Grilled Chicken w Black Pepper Sauce w Mashed Potato,chicken
+26,Grilled Chicken w Black Pepper Sauce w Mashed Potato,western
+27,Hot Plate Beef,beef
+27,Hot Plate Beef,japanese
+28,Nutritious Millet Porridge,chinese
+29,"Rice (Fish Flavored Shredded Pork,  Cumin Beef,  Green pepper with Beancurd skin",beef
+29,"Rice (Fish Flavored Shredded Pork,  Cumin Beef,  Green pepper with Beancurd skin",pork
+29,"Rice (Fish Flavored Shredded Pork,  Cumin Beef,  Green pepper with Beancurd skin",chinese
+30,"Rice (Sliced Fungus with Meat, Double Cooked Sliced Pork, Mixed shreds",pork
+30,"Rice (Sliced Fungus with Meat, Double Cooked Sliced Pork, Mixed shreds",rice
+30,"Rice (Sliced Fungus with Meat, Double Cooked Sliced Pork, Mixed shreds",chinese
+31,"Rice (Vermicelli with minced pork, Fried Cucumber with eggs, Mixed shreds",pork
+31,"Rice (Vermicelli with minced pork, Fried Cucumber with eggs, Mixed shreds",rice
+31,"Rice (Vermicelli with minced pork, Fried Cucumber with eggs, Mixed shreds",chinese
+32,Sauteed Sliced Pork with Pepper and Chili,pork
+32,Sauteed Sliced Pork with Pepper and Chili,chinese
+33,Seafood Fried Noodles,noodle
+33,Seafood Fried Noodles,chinese
+34,"Set 1 w 1 Bun (Double Cooked Sliced Pork,  Braised Beef w Potato,  Dry Tofu with Celery)",beef
+34,"Set 1 w 1 Bun (Double Cooked Sliced Pork,  Braised Beef w Potato,  Dry Tofu with Celery)",pork
+34,"Set 1 w 1 Bun (Double Cooked Sliced Pork,  Braised Beef w Potato,  Dry Tofu with Celery)",bun
+34,"Set 1 w 1 Bun (Double Cooked Sliced Pork,  Braised Beef w Potato,  Dry Tofu with Celery)",chinese
+35,"Set 1 w 2 Buns (Double Cooked Sliced Pork,  Braised Beef w Potato,  Dry Tofu with Celery)",beef
+35,"Set 1 w 2 Buns (Double Cooked Sliced Pork,  Braised Beef w Potato,  Dry Tofu with Celery)",pork
+35,"Set 1 w 2 Buns (Double Cooked Sliced Pork,  Braised Beef w Potato,  Dry Tofu with Celery)",bun
+35,"Set 1 w 2 Buns (Double Cooked Sliced Pork,  Braised Beef w Potato,  Dry Tofu with Celery)",chinese
+36,"Set 1 w Rice (Double Cooked Sliced Pork,  Braised Beef w Potato,  Dry Tofu with Celery)",beef
+36,"Set 1 w Rice (Double Cooked Sliced Pork,  Braised Beef w Potato,  Dry Tofu with Celery)",pork
+36,"Set 1 w Rice (Double Cooked Sliced Pork,  Braised Beef w Potato,  Dry Tofu with Celery)",rice
+36,"Set 1 w Rice (Double Cooked Sliced Pork,  Braised Beef w Potato,  Dry Tofu with Celery)",chinese
+37,"Set 10 w 1 Bun (Fish Flavored Shredded Pork,  Sour&Spicy Potato Slices, Brocolli)",spicy
+37,"Set 10 w 1 Bun (Fish Flavored Shredded Pork,  Sour&Spicy Potato Slices, Brocolli)",sour
+37,"Set 10 w 1 Bun (Fish Flavored Shredded Pork,  Sour&Spicy Potato Slices, Brocolli)",pork
+37,"Set 10 w 1 Bun (Fish Flavored Shredded Pork,  Sour&Spicy Potato Slices, Brocolli)",chinese
+38,"Set 10 w 2 Buns (Fish Flavored Shredded Pork,  Sour&Spicy Potato Slices, Brocolli)",spicy
+38,"Set 10 w 2 Buns (Fish Flavored Shredded Pork,  Sour&Spicy Potato Slices, Brocolli)",sour
+38,"Set 10 w 2 Buns (Fish Flavored Shredded Pork,  Sour&Spicy Potato Slices, Brocolli)",pork
+38,"Set 10 w 2 Buns (Fish Flavored Shredded Pork,  Sour&Spicy Potato Slices, Brocolli)",chinese
+39,"Set 10 w Rice (Fish Flavored Shredded Pork,  Sour&Spicy Potato Slices, Brocolli)",spicy
+39,"Set 10 w Rice (Fish Flavored Shredded Pork,  Sour&Spicy Potato Slices, Brocolli)",sour
+39,"Set 10 w Rice (Fish Flavored Shredded Pork,  Sour&Spicy Potato Slices, Brocolli)",pork
+39,"Set 10 w Rice (Fish Flavored Shredded Pork,  Sour&Spicy Potato Slices, Brocolli)",chinese
+40,"Set 11 w 1 Bun (Braised Fish Fillets, Sliced Fungus with Meat, Brocolli)",fish
+40,"Set 11 w 1 Bun (Braised Fish Fillets, Sliced Fungus with Meat, Brocolli)",bun
+40,"Set 11 w 1 Bun (Braised Fish Fillets, Sliced Fungus with Meat, Brocolli)",chinese
+41,"Set 11 w 2 Buns (Braised Fish Fillets, Sliced Fungus with Meat, Brocolli)",fish
+41,"Set 11 w 2 Buns (Braised Fish Fillets, Sliced Fungus with Meat, Brocolli)",bun
+41,"Set 11 w 2 Buns (Braised Fish Fillets, Sliced Fungus with Meat, Brocolli)",chinese
+42,"Set 11 w Rice (Braised Fish Fillets, Sliced Fungus with Meat, Brocolli)",fish
+42,"Set 11 w Rice (Braised Fish Fillets, Sliced Fungus with Meat, Brocolli)",rice
+42,"Set 11 w Rice (Braised Fish Fillets, Sliced Fungus with Meat, Brocolli)",chinese
+43,"Set 12 w 1 Bun (Fish Flavored Shredded Pork,  Double Cooked Sliced Pork, Shredded Kelp with Soy Sauce)",pork
+43,"Set 12 w 1 Bun (Fish Flavored Shredded Pork,  Double Cooked Sliced Pork, Shredded Kelp with Soy Sauce)",chinese
+44,"Set 12 w 2 Buns (Fish Flavored Shredded Pork,  Double Cooked Sliced Pork, Shredded Kelp with Soy Sauce)",pork
+44,"Set 12 w 2 Buns (Fish Flavored Shredded Pork,  Double Cooked Sliced Pork, Shredded Kelp with Soy Sauce)",chinese
+45,"Set 12 w Rice (Fish Flavored Shredded Pork,  Double Cooked Sliced Pork, Shredded Kelp with Soy Sauce)",pork
+45,"Set 12 w Rice (Fish Flavored Shredded Pork,  Double Cooked Sliced Pork, Shredded Kelp with Soy Sauce)",chinese
+46,"Set 13 w 1 Bun (Vermicelli with minced pork, Fish Flavored Shredded Pork,  Sweet & Sour Cabbage)",pork
+46,"Set 13 w 1 Bun (Vermicelli with minced pork, Fish Flavored Shredded Pork,  Sweet & Sour Cabbage)",chinese
+47,"Set 13 w 2 Buns (Vermicelli with minced pork, Fish Flavored Shredded Pork,  Sweet & Sour Cabbage)",pork
+47,"Set 13 w 2 Buns (Vermicelli with minced pork, Fish Flavored Shredded Pork,  Sweet & Sour Cabbage)",chinese
+48,"Set 13 w Rice (Vermicelli with minced pork, Fish Flavored Shredded Pork,  Sweet & Sour Cabbage)",pork
+48,"Set 13 w Rice (Vermicelli with minced pork, Fish Flavored Shredded Pork,  Sweet & Sour Cabbage)",chinese
+49,"Set 14 w 1 Bun (Vermicelli with minced pork, Double Cooked Sliced Pork, Fried Amaranth)",pork
+49,"Set 14 w 1 Bun (Vermicelli with minced pork, Double Cooked Sliced Pork, Fried Amaranth)",bun
+49,"Set 14 w 1 Bun (Vermicelli with minced pork, Double Cooked Sliced Pork, Fried Amaranth)",chinese
+50,"Set 14 w 2 Buns (Vermicelli with minced pork, Double Cooked Sliced Pork, Fried Amaranth)",pork
+50,"Set 14 w 2 Buns (Vermicelli with minced pork, Double Cooked Sliced Pork, Fried Amaranth)",bun
+50,"Set 14 w 2 Buns (Vermicelli with minced pork, Double Cooked Sliced Pork, Fried Amaranth)",chinese
+51,"Set 14 w Rice (Vermicelli with minced pork, Double Cooked Sliced Pork, Fried Amaranth)",pork
+51,"Set 14 w Rice (Vermicelli with minced pork, Double Cooked Sliced Pork, Fried Amaranth)",rice
+51,"Set 14 w Rice (Vermicelli with minced pork, Double Cooked Sliced Pork, Fried Amaranth)",chinese
+52,"Set 15 w 1 Bun (Braised Beef w Potato, Braised Fish Fillets, Shredded Kelp with Soy Sauce)",beef
+52,"Set 15 w 1 Bun (Braised Beef w Potato, Braised Fish Fillets, Shredded Kelp with Soy Sauce)",fish
+52,"Set 15 w 1 Bun (Braised Beef w Potato, Braised Fish Fillets, Shredded Kelp with Soy Sauce)",bun
+52,"Set 15 w 1 Bun (Braised Beef w Potato, Braised Fish Fillets, Shredded Kelp with Soy Sauce)",chinese
+53,"Set 15 w 2 Buns (Braised Beef w Potato, Braised Fish Fillets, Shredded Kelp with Soy Sauce)",beef
+53,"Set 15 w 2 Buns (Braised Beef w Potato, Braised Fish Fillets, Shredded Kelp with Soy Sauce)",fish
+53,"Set 15 w 2 Buns (Braised Beef w Potato, Braised Fish Fillets, Shredded Kelp with Soy Sauce)",bun
+53,"Set 15 w 2 Buns (Braised Beef w Potato, Braised Fish Fillets, Shredded Kelp with Soy Sauce)",chinese
+54,"Set 15 w Rice (Braised Beef w Potato, Braised Fish Fillets, Shredded Kelp with Soy Sauce)",beef
+54,"Set 15 w Rice (Braised Beef w Potato, Braised Fish Fillets, Shredded Kelp with Soy Sauce)",fish
+54,"Set 15 w Rice (Braised Beef w Potato, Braised Fish Fillets, Shredded Kelp with Soy Sauce)",rice
+54,"Set 15 w Rice (Braised Beef w Potato, Braised Fish Fillets, Shredded Kelp with Soy Sauce)",chinese
+55,"Set 16 w 1 Bun (Chicken Leg, Sour&Spicy Potato Slices, Fried Amaranth)",spicy
+55,"Set 16 w 1 Bun (Chicken Leg, Sour&Spicy Potato Slices, Fried Amaranth)",sour
+55,"Set 16 w 1 Bun (Chicken Leg, Sour&Spicy Potato Slices, Fried Amaranth)",chicken
+55,"Set 16 w 1 Bun (Chicken Leg, Sour&Spicy Potato Slices, Fried Amaranth)",bun
+55,"Set 16 w 1 Bun (Chicken Leg, Sour&Spicy Potato Slices, Fried Amaranth)",chinese
+56,"Set 16 w 2 Buns (Chicken Leg, Sour&Spicy Potato Slices, Fried Amaranth",spicy
+56,"Set 16 w 2 Buns (Chicken Leg, Sour&Spicy Potato Slices, Fried Amaranth",sour
+56,"Set 16 w 2 Buns (Chicken Leg, Sour&Spicy Potato Slices, Fried Amaranth",chicken
+56,"Set 16 w 2 Buns (Chicken Leg, Sour&Spicy Potato Slices, Fried Amaranth",bun
+56,"Set 16 w 2 Buns (Chicken Leg, Sour&Spicy Potato Slices, Fried Amaranth",chinese
+57,"Set 16 w Rice (Chicken Leg, Sour&Spicy Potato Slices, Fried Amaranth",spicy
+57,"Set 16 w Rice (Chicken Leg, Sour&Spicy Potato Slices, Fried Amaranth",sour
+57,"Set 16 w Rice (Chicken Leg, Sour&Spicy Potato Slices, Fried Amaranth",chicken
+57,"Set 16 w Rice (Chicken Leg, Sour&Spicy Potato Slices, Fried Amaranth",rice
+57,"Set 16 w Rice (Chicken Leg, Sour&Spicy Potato Slices, Fried Amaranth",chinese
+58,"Set 17 w 1 Bun (Fish Flavored Shredded Pork,  Cumin Beef,  Green pepper with Beancurd skin",beef
+58,"Set 17 w 1 Bun (Fish Flavored Shredded Pork,  Cumin Beef,  Green pepper with Beancurd skin",pork
+58,"Set 17 w 1 Bun (Fish Flavored Shredded Pork,  Cumin Beef,  Green pepper with Beancurd skin",chinese
+59,"Set 17 w 2 Buns (Fish Flavored Shredded Pork,  Cumin Beef,  Green pepper with Beancurd skin",beef
+59,"Set 17 w 2 Buns (Fish Flavored Shredded Pork,  Cumin Beef,  Green pepper with Beancurd skin",pork
+59,"Set 17 w 2 Buns (Fish Flavored Shredded Pork,  Cumin Beef,  Green pepper with Beancurd skin",chinese
+60,"Set 18 w 2 Buns (Double Cooked Sliced Pork, Kung Pao Chicken,  Fried Chinese cabbage",chicken
+60,"Set 18 w 2 Buns (Double Cooked Sliced Pork, Kung Pao Chicken,  Fried Chinese cabbage",pork
+60,"Set 18 w 2 Buns (Double Cooked Sliced Pork, Kung Pao Chicken,  Fried Chinese cabbage",bun
+60,"Set 18 w 2 Buns (Double Cooked Sliced Pork, Kung Pao Chicken,  Fried Chinese cabbage",chinese
+61,"Set 18 w Rice (Double Cooked Sliced Pork, Kung Pao Chicken,  Fried Chinese cabbage",chicken
+61,"Set 18 w Rice (Double Cooked Sliced Pork, Kung Pao Chicken,  Fried Chinese cabbage",pork
+61,"Set 18 w Rice (Double Cooked Sliced Pork, Kung Pao Chicken,  Fried Chinese cabbage",rice
+61,"Set 18 w Rice (Double Cooked Sliced Pork, Kung Pao Chicken,  Fried Chinese cabbage",chinese
+62,"Set 19 w 1 Bun (Cumin Beef, Fried Cucumber with eggs, Sweet & Sour Cabbage",beef
+62,"Set 19 w 1 Bun (Cumin Beef, Fried Cucumber with eggs, Sweet & Sour Cabbage",bun
+62,"Set 19 w 1 Bun (Cumin Beef, Fried Cucumber with eggs, Sweet & Sour Cabbage",chinese
+63,"Set 19 w Rice (Cumin Beef, Fried Cucumber with eggs, Sweet & Sour Cabbage",beef
+63,"Set 19 w Rice (Cumin Beef, Fried Cucumber with eggs, Sweet & Sour Cabbage",rice
+63,"Set 19 w Rice (Cumin Beef, Fried Cucumber with eggs, Sweet & Sour Cabbage",chinese
+64,"Set 2 w 1 Bun (Fish Flavored Shredded Pork,  Home-Style Bean Curd,  Lotus Root",pork
+64,"Set 2 w 1 Bun (Fish Flavored Shredded Pork,  Home-Style Bean Curd,  Lotus Root",chinese
+65,"Set 2 w 2 Buns (Fish Flavored Shredded Pork,  Home-Style Bean Curd,  Lotus Root",pork
+65,"Set 2 w 2 Buns (Fish Flavored Shredded Pork,  Home-Style Bean Curd,  Lotus Root",chinese
+66,"Set 2 w Rice (Fish Flavored Shredded Pork,  Home-Style Bean Curd,  Lotus Root",pork
+66,"Set 2 w Rice (Fish Flavored Shredded Pork,  Home-Style Bean Curd,  Lotus Root",chinese
+67,"Set 20 w 1 Bun (Sliced Fungus with Meat, Double Cooked Sliced Pork, Mixed shreds",pork
+67,"Set 20 w 1 Bun (Sliced Fungus with Meat, Double Cooked Sliced Pork, Mixed shreds",bun
+67,"Set 20 w 1 Bun (Sliced Fungus with Meat, Double Cooked Sliced Pork, Mixed shreds",chinese
+68,"Set 20 w 2 Buns (Sliced Fungus with Meat, Double Cooked Sliced Pork, Mixed shreds",pork
+68,"Set 20 w 2 Buns (Sliced Fungus with Meat, Double Cooked Sliced Pork, Mixed shreds",bun
+68,"Set 20 w 2 Buns (Sliced Fungus with Meat, Double Cooked Sliced Pork, Mixed shreds",chinese
+69,"Set 21 w 2 Buns (Sliced Fungus with Meat, Fish Flavored Shredded Pork, Green pepper with Beancurd skin",pork
+69,"Set 21 w 2 Buns (Sliced Fungus with Meat, Fish Flavored Shredded Pork, Green pepper with Beancurd skin",chinese
+70,"Set 21 w Rice (Sliced Fungus with Meat, Fish Flavored Shredded Pork, Green pepper with Beancurd skin",pork
+70,"Set 21 w Rice (Sliced Fungus with Meat, Fish Flavored Shredded Pork, Green pepper with Beancurd skin",chinese
+71,"Set 22 w 1 Bun (Vermicelli with minced pork, Double Cooked Sliced Pork, Sweet & Sour Cabbage",pork
+71,"Set 22 w 1 Bun (Vermicelli with minced pork, Double Cooked Sliced Pork, Sweet & Sour Cabbage",bun
+71,"Set 22 w 1 Bun (Vermicelli with minced pork, Double Cooked Sliced Pork, Sweet & Sour Cabbage",chinese
+72,"Set 22 w Rice (Vermicelli with minced pork, Double Cooked Sliced Pork, Sweet & Sour Cabbage",pork
+72,"Set 22 w Rice (Vermicelli with minced pork, Double Cooked Sliced Pork, Sweet & Sour Cabbage",rice
+72,"Set 22 w Rice (Vermicelli with minced pork, Double Cooked Sliced Pork, Sweet & Sour Cabbage",chinese
+73,"Set 23 w 1 Bun (Vermicelli with minced pork, Fried Cucumber with eggs, Mixed shreds",pork
+73,"Set 23 w 1 Bun (Vermicelli with minced pork, Fried Cucumber with eggs, Mixed shreds",bun
+73,"Set 23 w 1 Bun (Vermicelli with minced pork, Fried Cucumber with eggs, Mixed shreds",chinese
+74,"Set 23 w 2 Buns (Vermicelli with minced pork, Fried Cucumber with eggs, Mixed shreds",pork
+74,"Set 23 w 2 Buns (Vermicelli with minced pork, Fried Cucumber with eggs, Mixed shreds",bun
+74,"Set 23 w 2 Buns (Vermicelli with minced pork, Fried Cucumber with eggs, Mixed shreds",chinese
+75,"Set 24 w 1 Bun (Cumin Beef, Kung Pao Chicken, Fried Chinese cabbage",beef
+75,"Set 24 w 1 Bun (Cumin Beef, Kung Pao Chicken, Fried Chinese cabbage",chicken
+75,"Set 24 w 1 Bun (Cumin Beef, Kung Pao Chicken, Fried Chinese cabbage",bun
+75,"Set 24 w 1 Bun (Cumin Beef, Kung Pao Chicken, Fried Chinese cabbage",chinese
+76,"Set 24 w Rice (Cumin Beef, Kung Pao Chicken, Fried Chinese cabbage",beef
+76,"Set 24 w Rice (Cumin Beef, Kung Pao Chicken, Fried Chinese cabbage",chicken
+76,"Set 24 w Rice (Cumin Beef, Kung Pao Chicken, Fried Chinese cabbage",rice
+76,"Set 24 w Rice (Cumin Beef, Kung Pao Chicken, Fried Chinese cabbage",chinese
+77,"Set 3 w 1 Bun (Sauteed Sour Beans with Minced Pork, Fried Cucumber with Eggs, Dry Tofu with Celery",sour
+77,"Set 3 w 1 Bun (Sauteed Sour Beans with Minced Pork, Fried Cucumber with Eggs, Dry Tofu with Celery",pork
+77,"Set 3 w 1 Bun (Sauteed Sour Beans with Minced Pork, Fried Cucumber with Eggs, Dry Tofu with Celery",bun
+77,"Set 3 w 1 Bun (Sauteed Sour Beans with Minced Pork, Fried Cucumber with Eggs, Dry Tofu with Celery",chinese
+78,"Set 3 w 2 Buns (Sauteed Sour Beans with Minced Pork, Fried Cucumber with Eggs, Dry Tofu with Celery",sour
+78,"Set 3 w 2 Buns (Sauteed Sour Beans with Minced Pork, Fried Cucumber with Eggs, Dry Tofu with Celery",pork
+78,"Set 3 w 2 Buns (Sauteed Sour Beans with Minced Pork, Fried Cucumber with Eggs, Dry Tofu with Celery",bun
+78,"Set 3 w 2 Buns (Sauteed Sour Beans with Minced Pork, Fried Cucumber with Eggs, Dry Tofu with Celery",chinese
+79,"Set 3 w Rice (Sauteed Sour Beans with Minced Pork, Fried Cucumber with Eggs, Dry Tofu with Celery",sour
+79,"Set 3 w Rice (Sauteed Sour Beans with Minced Pork, Fried Cucumber with Eggs, Dry Tofu with Celery",pork
+79,"Set 3 w Rice (Sauteed Sour Beans with Minced Pork, Fried Cucumber with Eggs, Dry Tofu with Celery",rice
+79,"Set 3 w Rice (Sauteed Sour Beans with Minced Pork, Fried Cucumber with Eggs, Dry Tofu with Celery",chinese
+80,"Set 4 w 1 Bun (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",spicy
+80,"Set 4 w 1 Bun (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",sour
+80,"Set 4 w 1 Bun (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",pork
+80,"Set 4 w 1 Bun (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",fish
+80,"Set 4 w 1 Bun (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",bun
+80,"Set 4 w 1 Bun (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",chinese
+81,"Set 4 w 2 Buns (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",spicy
+81,"Set 4 w 2 Buns (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",sour
+81,"Set 4 w 2 Buns (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",pork
+81,"Set 4 w 2 Buns (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",fish
+81,"Set 4 w 2 Buns (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",bun
+81,"Set 4 w 2 Buns (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",chinese
+82,"Set 4 w Rice (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",spicy
+82,"Set 4 w Rice (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",sour
+82,"Set 4 w Rice (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",pork
+82,"Set 4 w Rice (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",fish
+82,"Set 4 w Rice (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",rice
+82,"Set 4 w Rice (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",chinese
+83,"Set 5 w 1 Bun (Sweet & Sour Pork, Fish Flavored Shredded Pork,  Lotus Root",pork
+83,"Set 5 w 1 Bun (Sweet & Sour Pork, Fish Flavored Shredded Pork,  Lotus Root",chinese
+84,"Set 5 w 2 Buns (Sweet & Sour Pork, Fish Flavored Shredded Pork,  Lotus Root",pork
+84,"Set 5 w 2 Buns (Sweet & Sour Pork, Fish Flavored Shredded Pork,  Lotus Root",chinese
+85,"Set 5 w Rice (Sweet & Sour Pork, Fish Flavored Shredded Pork,  Lotus Root",pork
+85,"Set 5 w Rice (Sweet & Sour Pork, Fish Flavored Shredded Pork,  Lotus Root",chinese
+86,"Set 6 w 1 Bun (Sweet & Sour Pork, Home-Style Bean Curd, Sour & Spicy Potato Slices",spicy
+86,"Set 6 w 1 Bun (Sweet & Sour Pork, Home-Style Bean Curd, Sour & Spicy Potato Slices",sour
+86,"Set 6 w 1 Bun (Sweet & Sour Pork, Home-Style Bean Curd, Sour & Spicy Potato Slices",pork
+86,"Set 6 w 1 Bun (Sweet & Sour Pork, Home-Style Bean Curd, Sour & Spicy Potato Slices",bun
+86,"Set 6 w 1 Bun (Sweet & Sour Pork, Home-Style Bean Curd, Sour & Spicy Potato Slices",chinese
+87,"Set 6 w 2 Buns (Sweet & Sour Pork, Home-Style Bean Curd, Sour & Spicy Potato Slices",spicy
+87,"Set 6 w 2 Buns (Sweet & Sour Pork, Home-Style Bean Curd, Sour & Spicy Potato Slices",sour
+87,"Set 6 w 2 Buns (Sweet & Sour Pork, Home-Style Bean Curd, Sour & Spicy Potato Slices",pork
+87,"Set 6 w 2 Buns (Sweet & Sour Pork, Home-Style Bean Curd, Sour & Spicy Potato Slices",bun
+87,"Set 6 w 2 Buns (Sweet & Sour Pork, Home-Style Bean Curd, Sour & Spicy Potato Slices",chinese
+88,"Set 6 w Rice (Sweet & Sour Pork, Home-Style Bean Curd, Sour & Spicy Potato Slices",spicy
+88,"Set 6 w Rice (Sweet & Sour Pork, Home-Style Bean Curd, Sour & Spicy Potato Slices",sour
+88,"Set 6 w Rice (Sweet & Sour Pork, Home-Style Bean Curd, Sour & Spicy Potato Slices",pork
+88,"Set 6 w Rice (Sweet & Sour Pork, Home-Style Bean Curd, Sour & Spicy Potato Slices",rice
+88,"Set 6 w Rice (Sweet & Sour Pork, Home-Style Bean Curd, Sour & Spicy Potato Slices",chinese
+89,"Set 7 w 1 Bun (Braised Fish Fillets, Fried Cucumber with Eggs, Fried Black Fungus with Cabbage",fish
+89,"Set 7 w 1 Bun (Braised Fish Fillets, Fried Cucumber with Eggs, Fried Black Fungus with Cabbage",bun
+89,"Set 7 w 1 Bun (Braised Fish Fillets, Fried Cucumber with Eggs, Fried Black Fungus with Cabbage",chinese
+90,"Set 7 w 2 Buns (Braised Fish Fillets, Fried Cucumber with Eggs, Fried Black Fungus with Cabbage",fish
+90,"Set 7 w 2 Buns (Braised Fish Fillets, Fried Cucumber with Eggs, Fried Black Fungus with Cabbage",bun
+90,"Set 7 w 2 Buns (Braised Fish Fillets, Fried Cucumber with Eggs, Fried Black Fungus with Cabbage",chinese
+91,"Set 7 w Rice (Braised Fish Fillets, Fried Cucumber with Eggs, Fried Black Fungus with Cabbage",fish
+91,"Set 7 w Rice (Braised Fish Fillets, Fried Cucumber with Eggs, Fried Black Fungus with Cabbage",rice
+91,"Set 7 w Rice (Braised Fish Fillets, Fried Cucumber with Eggs, Fried Black Fungus with Cabbage",chinese
+92,"Set 8 w 1 Bun (Braised Beef w Potato, Sauteed Sour Beans with Minced Pork, Fried Black Fungus with Cabbage",sour
+92,"Set 8 w 1 Bun (Braised Beef w Potato, Sauteed Sour Beans with Minced Pork, Fried Black Fungus with Cabbage",beef
+92,"Set 8 w 1 Bun (Braised Beef w Potato, Sauteed Sour Beans with Minced Pork, Fried Black Fungus with Cabbage",pork
+92,"Set 8 w 1 Bun (Braised Beef w Potato, Sauteed Sour Beans with Minced Pork, Fried Black Fungus with Cabbage",bun
+92,"Set 8 w 1 Bun (Braised Beef w Potato, Sauteed Sour Beans with Minced Pork, Fried Black Fungus with Cabbage",chinese
+93,"Set 8 w 2 Buns (Braised Beef w Potato, Sauteed Sour Beans with Minced Pork, Fried Black Fungus with Cabbage",sour
+93,"Set 8 w 2 Buns (Braised Beef w Potato, Sauteed Sour Beans with Minced Pork, Fried Black Fungus with Cabbage",beef
+93,"Set 8 w 2 Buns (Braised Beef w Potato, Sauteed Sour Beans with Minced Pork, Fried Black Fungus with Cabbage",pork
+93,"Set 8 w 2 Buns (Braised Beef w Potato, Sauteed Sour Beans with Minced Pork, Fried Black Fungus with Cabbage",bun
+93,"Set 8 w 2 Buns (Braised Beef w Potato, Sauteed Sour Beans with Minced Pork, Fried Black Fungus with Cabbage",chinese
+94,"Set 8 w Rice (Braised Beef w Potato, Sauteed Sour Beans with Minced Pork, Fried Black Fungus with Cabbage",sour
+94,"Set 8 w Rice (Braised Beef w Potato, Sauteed Sour Beans with Minced Pork, Fried Black Fungus with Cabbage",beef
+94,"Set 8 w Rice (Braised Beef w Potato, Sauteed Sour Beans with Minced Pork, Fried Black Fungus with Cabbage",pork
+94,"Set 8 w Rice (Braised Beef w Potato, Sauteed Sour Beans with Minced Pork, Fried Black Fungus with Cabbage",rice
+94,"Set 8 w Rice (Braised Beef w Potato, Sauteed Sour Beans with Minced Pork, Fried Black Fungus with Cabbage",chinese
+95,"Set 9 w 1 Bun (Kung Pao Chicken, Braised Beef w Potato, Sweet&Sour Cabbage",beef
+95,"Set 9 w 1 Bun (Kung Pao Chicken, Braised Beef w Potato, Sweet&Sour Cabbage",chicken
+95,"Set 9 w 1 Bun (Kung Pao Chicken, Braised Beef w Potato, Sweet&Sour Cabbage",bun
+95,"Set 9 w 1 Bun (Kung Pao Chicken, Braised Beef w Potato, Sweet&Sour Cabbage",chinese
+96,"Set 9 w 2 Buns (Kung Pao Chicken, Braised Beef w Potato, Sweet&Sour Cabbage",beef
+96,"Set 9 w 2 Buns (Kung Pao Chicken, Braised Beef w Potato, Sweet&Sour Cabbage",chicken
+96,"Set 9 w 2 Buns (Kung Pao Chicken, Braised Beef w Potato, Sweet&Sour Cabbage",bun
+96,"Set 9 w 2 Buns (Kung Pao Chicken, Braised Beef w Potato, Sweet&Sour Cabbage",chinese
+97,"Set 9 w Rice (Kung Pao Chicken, Braised Beef w Potato, Sweet&Sour Cabbage",beef
+97,"Set 9 w Rice (Kung Pao Chicken, Braised Beef w Potato, Sweet&Sour Cabbage",chicken
+97,"Set 9 w Rice (Kung Pao Chicken, Braised Beef w Potato, Sweet&Sour Cabbage",rice
+97,"Set 9 w Rice (Kung Pao Chicken, Braised Beef w Potato, Sweet&Sour Cabbage",chinese
+98,"Set A1 w bun (Kung Pao Chicken, Braised Beef w Potato, Fried Cabbage",beef
+98,"Set A1 w bun (Kung Pao Chicken, Braised Beef w Potato, Fried Cabbage",chicken
+98,"Set A1 w bun (Kung Pao Chicken, Braised Beef w Potato, Fried Cabbage",bun
+98,"Set A1 w bun (Kung Pao Chicken, Braised Beef w Potato, Fried Cabbage",chinese
+99,"Set A1 w rice (Kung Pao Chicken, Braised Beef w Potato, Fried Cabbage",beef
+99,"Set A1 w rice (Kung Pao Chicken, Braised Beef w Potato, Fried Cabbage",chicken
+99,"Set A1 w rice (Kung Pao Chicken, Braised Beef w Potato, Fried Cabbage",rice
+99,"Set A1 w rice (Kung Pao Chicken, Braised Beef w Potato, Fried Cabbage",chinese
+100,"Set A2 w 2 buns (Braised Fish Fillets, Lotus Roots with Sliced Pork, Broccoli",pork
+100,"Set A2 w 2 buns (Braised Fish Fillets, Lotus Roots with Sliced Pork, Broccoli",fish
+100,"Set A2 w 2 buns (Braised Fish Fillets, Lotus Roots with Sliced Pork, Broccoli",bun
+100,"Set A2 w 2 buns (Braised Fish Fillets, Lotus Roots with Sliced Pork, Broccoli",chinese
+101,"Set A2 w rice (Braised Fish Fillets, Lotus Roots with Sliced Pork, Broccoli",pork
+101,"Set A2 w rice (Braised Fish Fillets, Lotus Roots with Sliced Pork, Broccoli",fish
+101,"Set A2 w rice (Braised Fish Fillets, Lotus Roots with Sliced Pork, Broccoli",rice
+101,"Set A2 w rice (Braised Fish Fillets, Lotus Roots with Sliced Pork, Broccoli",chinese
+102,"Set A3 w bun (Vermicelli with Minced Pork, Braised Pork Belly, Fried Amaranth",pork
+102,"Set A3 w bun (Vermicelli with Minced Pork, Braised Pork Belly, Fried Amaranth",bun
+102,"Set A3 w bun (Vermicelli with Minced Pork, Braised Pork Belly, Fried Amaranth",chinese
+103,"Set A3 w rice (Vermicelli with Minced Pork, Braised Pork Belly, Fried Amaranth",pork
+103,"Set A3 w rice (Vermicelli with Minced Pork, Braised Pork Belly, Fried Amaranth",rice
+103,"Set A3 w rice (Vermicelli with Minced Pork, Braised Pork Belly, Fried Amaranth",chinese
+104,"Set A4 w bun (Chicken Leg, Sour & Spicy Potato Slices, Fried Amaranth",spicy
+104,"Set A4 w bun (Chicken Leg, Sour & Spicy Potato Slices, Fried Amaranth",sour
+104,"Set A4 w bun (Chicken Leg, Sour & Spicy Potato Slices, Fried Amaranth",chicken
+104,"Set A4 w bun (Chicken Leg, Sour & Spicy Potato Slices, Fried Amaranth",bun
+104,"Set A4 w bun (Chicken Leg, Sour & Spicy Potato Slices, Fried Amaranth",chinese
+105,"Set A4 w rice (Chicken Leg, Sour & Spicy Potato Slices, Fried Amaranth",spicy
+105,"Set A4 w rice (Chicken Leg, Sour & Spicy Potato Slices, Fried Amaranth",sour
+105,"Set A4 w rice (Chicken Leg, Sour & Spicy Potato Slices, Fried Amaranth",chicken
+105,"Set A4 w rice (Chicken Leg, Sour & Spicy Potato Slices, Fried Amaranth",rice
+105,"Set A4 w rice (Chicken Leg, Sour & Spicy Potato Slices, Fried Amaranth",chinese
+106,"Set A5 w 1 bun (Spicy Pork Ribs, Sliced Fungus with Meat, Fish Flavoured Eggplant",spicy
+106,"Set A5 w 1 bun (Spicy Pork Ribs, Sliced Fungus with Meat, Fish Flavoured Eggplant",pork
+106,"Set A5 w 1 bun (Spicy Pork Ribs, Sliced Fungus with Meat, Fish Flavoured Eggplant",chinese
+107,"Set A5 w rice (Spicy Pork Ribs, Sliced Fungus with Meat, Fish Flavoured Eggplant",spicy
+107,"Set A5 w rice (Spicy Pork Ribs, Sliced Fungus with Meat, Fish Flavoured Eggplant",pork
+107,"Set A5 w rice (Spicy Pork Ribs, Sliced Fungus with Meat, Fish Flavoured Eggplant",chinese
+108,Set A6 Spicy Pork Ribs Noodle (Soup,pork
+108,Set A6 Spicy Pork Ribs Noodle (Soup,noodle
+108,Set A6 Spicy Pork Ribs Noodle (Soup,soup
+108,Set A6 Spicy Pork Ribs Noodle (Soup,chinese
+109,Set A7 [Vegetarian] Tomato Egg Noodle (Soup,vegeatarian
+109,Set A7 [Vegetarian] Tomato Egg Noodle (Soup,chicken
+109,Set A7 [Vegetarian] Tomato Egg Noodle (Soup,noodle
+109,Set A7 [Vegetarian] Tomato Egg Noodle (Soup,soup
+109,Set A7 [Vegetarian] Tomato Egg Noodle (Soup,chinese
+110,Set A8 Double Cooked Sliced Pork Fried Rice,pork
+110,Set A8 Double Cooked Sliced Pork Fried Rice,rice
+110,Set A8 Double Cooked Sliced Pork Fried Rice,chinese
+111,Set B1 [Halal] Beef & Ebi Bento,beef
+111,Set B1 [Halal] Beef & Ebi Bento,halal
+111,Set B1 [Halal] Beef & Ebi Bento,japanese
+112,Set B1 [Halal] Braised Chicken w/ Noodle,chicken
+112,Set B1 [Halal] Braised Chicken w/ Noodle,halal
+112,Set B1 [Halal] Braised Chicken w/ Noodle,noodle
+112,Set B1 [Halal] Braised Chicken w/ Noodle,local items
+113,Set B1 [Halal] Omurice w/ Fish Fillet,fish
+113,Set B1 [Halal] Omurice w/ Fish Fillet,halal
+113,Set B1 [Halal] Omurice w/ Fish Fillet,rice
+113,Set B1 [Halal] Omurice w/ Fish Fillet,japanese
+114,Set B1 [Halal] Saba Shioyaki Set,fish
+114,Set B1 [Halal] Saba Shioyaki Set,halal
+114,Set B1 [Halal] Saba Shioyaki Set,japanese
+115,Set B1 [Halal] Shrimp & Saba Bento,fish
+115,Set B1 [Halal] Shrimp & Saba Bento,halal
+115,Set B1 [Halal] Shrimp & Saba Bento,japanese
+116,Set B1 Bean Paste Chicken Wings,chicken
+116,Set B1 Bean Paste Chicken Wings,thai
+117,Set B1 Clear Tomyam Seafood Soup w/ Rice,rice
+117,Set B1 Clear Tomyam Seafood Soup w/ Rice,soup
+117,Set B1 Clear Tomyam Seafood Soup w/ Rice,thai
+118,"Set B1 w bun (Double Cooked Sliced Pork, Braised Beef w Potato, Dry Tofu with Celery",beef
+118,"Set B1 w bun (Double Cooked Sliced Pork, Braised Beef w Potato, Dry Tofu with Celery",fish
+118,"Set B1 w bun (Double Cooked Sliced Pork, Braised Beef w Potato, Dry Tofu with Celery",bun
+118,"Set B1 w bun (Double Cooked Sliced Pork, Braised Beef w Potato, Dry Tofu with Celery",chinese
+119,"Set B1 w rice (Double Cooked Sliced Pork, Braised Beef w Potato, Dry Tofu with Celery",beef
+119,"Set B1 w rice (Double Cooked Sliced Pork, Braised Beef w Potato, Dry Tofu with Celery",fish
+119,"Set B1 w rice (Double Cooked Sliced Pork, Braised Beef w Potato, Dry Tofu with Celery",rice
+119,"Set B1 w rice (Double Cooked Sliced Pork, Braised Beef w Potato, Dry Tofu with Celery",chinese
+120,Set B2 [Halal] Beef & Chicken Bento,beef
+120,Set B2 [Halal] Beef & Chicken Bento,chicken
+120,Set B2 [Halal] Beef & Chicken Bento,halal
+120,Set B2 [Halal] Beef & Chicken Bento,japanese
+121,Set B2 [Halal] Fuqi Feipian (Beef,halal
+121,Set B2 [Halal] Fuqi Feipian (Beef,chinese
+122,Set B2 [Halal] Omurice w/ Ebi,halal
+122,Set B2 [Halal] Omurice w/ Ebi,rice
+122,Set B2 [Halal] Omurice w/ Ebi,japanese
+123,Set B2 [Halal] Oyster Sauce Chicken w/ Noodle,chicken
+123,Set B2 [Halal] Oyster Sauce Chicken w/ Noodle,halal
+123,Set B2 [Halal] Oyster Sauce Chicken w/ Noodle,noodle
+123,Set B2 [Halal] Oyster Sauce Chicken w/ Noodle,local items
+124,Set B2 [Halal] Saba & Chicken Bento,chicken
+124,Set B2 [Halal] Saba & Chicken Bento,halal
+124,Set B2 [Halal] Saba & Chicken Bento,japanese
+125,Set B2 [Halal] Spicy Sweet Potato Noodle w/ Beef,spicy
+125,Set B2 [Halal] Spicy Sweet Potato Noodle w/ Beef,sour
+125,Set B2 [Halal] Spicy Sweet Potato Noodle w/ Beef,beef
+125,Set B2 [Halal] Spicy Sweet Potato Noodle w/ Beef,halal
+125,Set B2 [Halal] Spicy Sweet Potato Noodle w/ Beef,noodle
+125,Set B2 [Halal] Spicy Sweet Potato Noodle w/ Beef,chinese
+126,Set B2 Thai Sweet & Sour Fish Rice,sour
+126,Set B2 Thai Sweet & Sour Fish Rice,rice
+126,Set B2 Thai Sweet & Sour Fish Rice,thai
+127,"Set B2 w 1 bun (Sauteed Sour Beans with Minced Pork, Fried Cucumber  with Eggs, Dry Tofu with Celery",sour
+127,"Set B2 w 1 bun (Sauteed Sour Beans with Minced Pork, Fried Cucumber  with Eggs, Dry Tofu with Celery",pork
+127,"Set B2 w 1 bun (Sauteed Sour Beans with Minced Pork, Fried Cucumber  with Eggs, Dry Tofu with Celery",fish
+127,"Set B2 w 1 bun (Sauteed Sour Beans with Minced Pork, Fried Cucumber  with Eggs, Dry Tofu with Celery",bun
+127,"Set B2 w 1 bun (Sauteed Sour Beans with Minced Pork, Fried Cucumber  with Eggs, Dry Tofu with Celery",chinese
+128,"Set B2 w rice (Sauteed Sour Beans with Minced Pork, Fried Cucumber  with Eggs, Dry Tofu with Celery",sour
+128,"Set B2 w rice (Sauteed Sour Beans with Minced Pork, Fried Cucumber  with Eggs, Dry Tofu with Celery",pork
+128,"Set B2 w rice (Sauteed Sour Beans with Minced Pork, Fried Cucumber  with Eggs, Dry Tofu with Celery",fish
+128,"Set B2 w rice (Sauteed Sour Beans with Minced Pork, Fried Cucumber  with Eggs, Dry Tofu with Celery",rice
+128,"Set B2 w rice (Sauteed Sour Beans with Minced Pork, Fried Cucumber  with Eggs, Dry Tofu with Celery",chinese
+129,Set B3 [Halal] Curry Chicken Set,chicken
+129,Set B3 [Halal] Curry Chicken Set,halal
+129,Set B3 [Halal] Curry Chicken Set,indonesian
+130,Set B3 [Halal] Ginseng Chicken Soup,chicken
+130,Set B3 [Halal] Ginseng Chicken Soup,halal
+130,Set B3 [Halal] Ginseng Chicken Soup,soup
+130,Set B3 [Halal] Ginseng Chicken Soup,korean
+131,Set B3 [Halal] Salmon & Ebi Bento,fish
+131,Set B3 [Halal] Salmon & Ebi Bento,halal
+131,Set B3 [Halal] Salmon & Ebi Bento,japanese
+132,Set B3 [Halal] Scallop & Beef Bento,beef
+132,Set B3 [Halal] Scallop & Beef Bento,halal
+132,Set B3 [Halal] Scallop & Beef Bento,japanese
+133,Set B3 [Halal] Thai Basil Chicken with Rice,chicken
+133,Set B3 [Halal] Thai Basil Chicken with Rice,halal
+133,Set B3 [Halal] Thai Basil Chicken with Rice,rice
+133,Set B3 [Halal] Thai Basil Chicken with Rice,thai
+134,Set B3 [Vegetarian] Xi'an Cold Noodle,vegeatarian
+134,Set B3 [Vegetarian] Xi'an Cold Noodle,noodle
+134,Set B3 [Vegetarian] Xi'an Cold Noodle,chinese
+135,Set B3 Grilled Chicken w BBQ Sauce w Rice,chicken
+135,Set B3 Grilled Chicken w BBQ Sauce w Rice,rice
+135,Set B3 Grilled Chicken w BBQ Sauce w Rice,western
+136,Set B3 Seafood Fried Rice,rice
+136,Set B3 Seafood Fried Rice,local items
+137,"Set B3 w bun (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",spicy
+137,"Set B3 w bun (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",sour
+137,"Set B3 w bun (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",pork
+137,"Set B3 w bun (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",fish
+137,"Set B3 w bun (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",bun
+137,"Set B3 w bun (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",chinese
+138,"Set B3 w rice (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",spicy
+138,"Set B3 w rice (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",sour
+138,"Set B3 w rice (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",pork
+138,"Set B3 w rice (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",fish
+138,"Set B3 w rice (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",rice
+138,"Set B3 w rice (Braised Fish Fillets, Double Cooked Sliced Pork, Sour & Spicy Potato Slices",chinese
+139,Set B4 [Halal] Grilled Mackerel w/ Rice,fish
+139,Set B4 [Halal] Grilled Mackerel w/ Rice,halal
+139,Set B4 [Halal] Grilled Mackerel w/ Rice,rice
+139,Set B4 [Halal] Grilled Mackerel w/ Rice,korean
+140,Set B4 [Vegetarian] Hot and Sour Cabbage w/ Rice,spicy
+140,Set B4 [Vegetarian] Hot and Sour Cabbage w/ Rice,sour
+140,Set B4 [Vegetarian] Hot and Sour Cabbage w/ Rice,vegeatarian
+140,Set B4 [Vegetarian] Hot and Sour Cabbage w/ Rice,rice
+140,Set B4 [Vegetarian] Hot and Sour Cabbage w/ Rice,chinese
+141,Set B4 [Vegetarian] Stir Fried Potato Eggplant & Green Pepper w Rice,vegeatarian
+141,Set B4 [Vegetarian] Stir Fried Potato Eggplant & Green Pepper w Rice,rice
+141,Set B4 [Vegetarian] Stir Fried Potato Eggplant & Green Pepper w Rice,chinese
+142,Set B4 Kimchi Jigae Soup w/ rice,rice
+142,Set B4 Kimchi Jigae Soup w/ rice,soup
+142,Set B4 Kimchi Jigae Soup w/ rice,korean
+143,Set B4 Stir Fried Green Pepper and Tofu Skin w Rice,rice
+143,Set B4 Stir Fried Green Pepper and Tofu Skin w Rice,chinese
+144,Set B4 Vegetable Baked Rice,rice
+144,Set B4 Vegetable Baked Rice,western
+145,"Set B4 w 2 buns (Sauteed Sour Beans with Minced Pork, Braised Beef w Potato, Fried Black Fungus with Cabbage",sour
+145,"Set B4 w 2 buns (Sauteed Sour Beans with Minced Pork, Braised Beef w Potato, Fried Black Fungus with Cabbage",beef
+145,"Set B4 w 2 buns (Sauteed Sour Beans with Minced Pork, Braised Beef w Potato, Fried Black Fungus with Cabbage",pork
+145,"Set B4 w 2 buns (Sauteed Sour Beans with Minced Pork, Braised Beef w Potato, Fried Black Fungus with Cabbage",fish
+145,"Set B4 w 2 buns (Sauteed Sour Beans with Minced Pork, Braised Beef w Potato, Fried Black Fungus with Cabbage",bun
+145,"Set B4 w 2 buns (Sauteed Sour Beans with Minced Pork, Braised Beef w Potato, Fried Black Fungus with Cabbage",chinese
+146,"Set B4 w rice (Sauteed Sour Beans with Minced Pork, Braised Beef w Potato, Fried Black Fungus with Cabbage",sour
+146,"Set B4 w rice (Sauteed Sour Beans with Minced Pork, Braised Beef w Potato, Fried Black Fungus with Cabbage",beef
+146,"Set B4 w rice (Sauteed Sour Beans with Minced Pork, Braised Beef w Potato, Fried Black Fungus with Cabbage",pork
+146,"Set B4 w rice (Sauteed Sour Beans with Minced Pork, Braised Beef w Potato, Fried Black Fungus with Cabbage",fish
+146,"Set B4 w rice (Sauteed Sour Beans with Minced Pork, Braised Beef w Potato, Fried Black Fungus with Cabbage",rice
+146,"Set B4 w rice (Sauteed Sour Beans with Minced Pork, Braised Beef w Potato, Fried Black Fungus with Cabbage",chinese
+147,Set B5 [Halal] Fish Fillet & Ebi Bento,halal
+147,Set B5 [Halal] Fish Fillet & Ebi Bento,japanese
+148,Set B5 [Halal] Kimchi Fried Rice w/ Chicken,chicken
+148,Set B5 [Halal] Kimchi Fried Rice w/ Chicken,halal
+148,Set B5 [Halal] Kimchi Fried Rice w/ Chicken,rice
+148,Set B5 [Halal] Kimchi Fried Rice w/ Chicken,korean
+149,Set B5 [Halal] Pineapple Fried Rice,halal
+149,Set B5 [Halal] Pineapple Fried Rice,rice
+149,Set B5 [Halal] Pineapple Fried Rice,thai
+150,Set B5 [Halal] Scallop & Salmon Bento,fish
+150,Set B5 [Halal] Scallop & Salmon Bento,halal
+150,Set B5 [Halal] Scallop & Salmon Bento,japanese
+151,Set B5 [Halal] Shrimp & Chicken Teriyaki Bento,chicken
+151,Set B5 [Halal] Shrimp & Chicken Teriyaki Bento,halal
+151,Set B5 [Halal] Shrimp & Chicken Teriyaki Bento,japanese
+152,Set B5 Minced Meat Noodle w Soybean Paste,noodle
+152,Set B5 Minced Meat Noodle w Soybean Paste,chinese
+153,Set B5 Shredded Chicken Peanut Porridge,chicken
+153,Set B5 Shredded Chicken Peanut Porridge,local items
+154,"Set B5 w bun (Braised Pork Ribs with Potato, Lotus Roots with Sliced Pork, Tofu with Mixed Vegetables",pork
+154,"Set B5 w bun (Braised Pork Ribs with Potato, Lotus Roots with Sliced Pork, Tofu with Mixed Vegetables",bun
+154,"Set B5 w bun (Braised Pork Ribs with Potato, Lotus Roots with Sliced Pork, Tofu with Mixed Vegetables",chinese
+155,"Set B5 w rice (Braised Pork Ribs with Potato, Lotus Roots with Sliced Pork, Tofu with Mixed Vegetables",pork
+155,"Set B5 w rice (Braised Pork Ribs with Potato, Lotus Roots with Sliced Pork, Tofu with Mixed Vegetables",rice
+155,"Set B5 w rice (Braised Pork Ribs with Potato, Lotus Roots with Sliced Pork, Tofu with Mixed Vegetables",chinese
+156,Set B6 [Halal] Chicken Teriyaki & Ebi Bento,chicken
+156,Set B6 [Halal] Chicken Teriyaki & Ebi Bento,halal
+156,Set B6 [Halal] Chicken Teriyaki & Ebi Bento,japanese
+157,Set B6 [Halal] Grilled Chicken w Brown Sauce w/ Rice,chicken
+157,Set B6 [Halal] Grilled Chicken w Brown Sauce w/ Rice,halal
+157,Set B6 [Halal] Grilled Chicken w Brown Sauce w/ Rice,rice
+157,Set B6 [Halal] Grilled Chicken w Brown Sauce w/ Rice,western
+158,Set B6 [Halal] Omurice w/ Beef,beef
+158,Set B6 [Halal] Omurice w/ Beef,halal
+158,Set B6 [Halal] Omurice w/ Beef,rice
+158,Set B6 [Halal] Omurice w/ Beef,japanese
+159,Set B6 Meatball Porridge,pork
+159,Set B6 Meatball Porridge,local items
+160,"Set B6 Noodle w Tomato, Egg & Beef",chicken
+160,"Set B6 Noodle w Tomato, Egg & Beef",noodle
+160,"Set B6 Noodle w Tomato, Egg & Beef",chinese
+161,Set B6 Pork & Cabbage Dumplings 10pcs,pork
+161,Set B6 Pork & Cabbage Dumplings 10pcs,chinese
+162,Set B6 Salmon & Beef Bento,beef
+162,Set B6 Salmon & Beef Bento,japanese
+163,Set B6 Spicy Braised Beef Noodle (Soup,spicy
+163,Set B6 Spicy Braised Beef Noodle (Soup,beef
+163,Set B6 Spicy Braised Beef Noodle (Soup,noodle
+163,Set B6 Spicy Braised Beef Noodle (Soup,soup
+163,Set B6 Spicy Braised Beef Noodle (Soup,chinese
+164,Set B7 [Halal] Fish Fillet & Beef Bento,beef
+164,Set B7 [Halal] Fish Fillet & Beef Bento,fish
+164,Set B7 [Halal] Fish Fillet & Beef Bento,halal
+164,Set B7 [Halal] Fish Fillet & Beef Bento,japanese
+165,Set B7 [Halal] Grilled Fish w Black Pepper Sauce w Rice,fish
+165,Set B7 [Halal] Grilled Fish w Black Pepper Sauce w Rice,halal
+165,Set B7 [Halal] Grilled Fish w Black Pepper Sauce w Rice,rice
+165,Set B7 [Halal] Grilled Fish w Black Pepper Sauce w Rice,western
+166,Set B7 ABC Soup w/ Rice,rice
+166,Set B7 ABC Soup w/ Rice,soup
+166,Set B7 ABC Soup w/ Rice,local items
+167,Set B7 Century Egg w Pork Porridge,pork
+167,Set B7 Century Egg w Pork Porridge,local items
+168,Set B7 Double Cooked Sliced Pork Fried Rice,pork
+168,Set B7 Double Cooked Sliced Pork Fried Rice,rice
+168,Set B7 Double Cooked Sliced Pork Fried Rice,chinese
+169,Set B7 Fried Rice w Shrimps,rice
+169,Set B7 Fried Rice w Shrimps,chinese
+170,Set B7 Signature Sesame Oil Chicken,chicken
+170,Set B7 Signature Sesame Oil Chicken,local items
+171,Set B7 Three Mushroon Porridge,local items
+172,Set B7 Watercress Pork Rib Soup w/ Rice,pork
+172,Set B7 Watercress Pork Rib Soup w/ Rice,rice
+172,Set B7 Watercress Pork Rib Soup w/ Rice,soup
+172,Set B7 Watercress Pork Rib Soup w/ Rice,local items
+173,Set B8 [Halal] Grilled Chicken w/ Black Pepper Sauce,chicken
+173,Set B8 [Halal] Grilled Chicken w/ Black Pepper Sauce,halal
+173,Set B8 [Halal] Grilled Chicken w/ Black Pepper Sauce,western
+174,Set B8 [Halal] Roasted Chicken Thigh & Sweet Potato Salad,chicken
+174,Set B8 [Halal] Roasted Chicken Thigh & Sweet Potato Salad,halal
+174,Set B8 [Halal] Roasted Chicken Thigh & Sweet Potato Salad,none
+175,Set B8 [Halal] Roasted Chicken Thigh w/ Brown Soba Salad,chicken
+175,Set B8 [Halal] Roasted Chicken Thigh w/ Brown Soba Salad,halal
+175,Set B8 [Halal] Roasted Chicken Thigh w/ Brown Soba Salad,none
+176,Set B8 [Halal] Smoked Salmon & Brown Soba Salad,fish
+176,Set B8 [Halal] Smoked Salmon & Brown Soba Salad,halal
+176,Set B8 [Halal] Smoked Salmon & Brown Soba Salad,none
+177,Set B8 [Halal] Smoked Salmon & Sweet Potato Salad,fish
+177,Set B8 [Halal] Smoked Salmon & Sweet Potato Salad,halal
+177,Set B8 [Halal] Smoked Salmon & Sweet Potato Salad,none
+178,Set B8 [Halal] Tandoori Chicken Thigh w/ Brown Rice Salad,chicken
+178,Set B8 [Halal] Tandoori Chicken Thigh w/ Brown Rice Salad,halal
+178,Set B8 [Halal] Tandoori Chicken Thigh w/ Brown Rice Salad,rice
+178,Set B8 [Halal] Tandoori Chicken Thigh w/ Brown Rice Salad,none
+179,Set B8 Yangzhou Fried Rice,rice
+179,Set B8 Yangzhou Fried Rice,chinese
+180,Set C1 [Halal] Salmon & Chicken Bento,chicken
+180,Set C1 [Halal] Salmon & Chicken Bento,halal
+180,Set C1 [Halal] Salmon & Chicken Bento,japanese
+181,"Set C1 w bun (Fish flavored Shredded Pork, Cumin Beef, Green Pepper with Beancurd Skin",beef
+181,"Set C1 w bun (Fish flavored Shredded Pork, Cumin Beef, Green Pepper with Beancurd Skin",pork
+181,"Set C1 w bun (Fish flavored Shredded Pork, Cumin Beef, Green Pepper with Beancurd Skin",chinese
+182,"Set C1 w rice (Fish flavored Shredded Pork, Cumin Beef, Green Pepper with Beancurd Skin",beef
+182,"Set C1 w rice (Fish flavored Shredded Pork, Cumin Beef, Green Pepper with Beancurd Skin",pork
+182,"Set C1 w rice (Fish flavored Shredded Pork, Cumin Beef, Green Pepper with Beancurd Skin",chinese
+183,Set C2 [Halal] [Vegetarian] Fried Sweet Potato Noodle Set,vegeatarian
+183,Set C2 [Halal] [Vegetarian] Fried Sweet Potato Noodle Set,halal
+183,Set C2 [Halal] [Vegetarian] Fried Sweet Potato Noodle Set,noodle
+183,Set C2 [Halal] [Vegetarian] Fried Sweet Potato Noodle Set,korean
+184,Set C2 [Halal] Omurice w/ Chicken,chicken
+184,Set C2 [Halal] Omurice w/ Chicken,halal
+184,Set C2 [Halal] Omurice w/ Chicken,rice
+184,Set C2 [Halal] Omurice w/ Chicken,japanese
+185,Set C2 [Halal] Thai Green Curry Chicken w/ Rice,chicken
+185,Set C2 [Halal] Thai Green Curry Chicken w/ Rice,halal
+185,Set C2 [Halal] Thai Green Curry Chicken w/ Rice,rice
+185,Set C2 [Halal] Thai Green Curry Chicken w/ Rice,thai
+186,Set C2 [Halal] Yong Tau Foo Soup w/ Rice,halal
+186,Set C2 [Halal] Yong Tau Foo Soup w/ Rice,rice
+186,Set C2 [Halal] Yong Tau Foo Soup w/ Rice,soup
+186,Set C2 [Halal] Yong Tau Foo Soup w/ Rice,local items
+187,"Set C2 w 1 bun (Double Cooked Sliced Pork, Kung Pao Chicken, Fried Chinese Cabbage",chicken
+187,"Set C2 w 1 bun (Double Cooked Sliced Pork, Kung Pao Chicken, Fried Chinese Cabbage",pork
+187,"Set C2 w 1 bun (Double Cooked Sliced Pork, Kung Pao Chicken, Fried Chinese Cabbage",bun
+187,"Set C2 w 1 bun (Double Cooked Sliced Pork, Kung Pao Chicken, Fried Chinese Cabbage",chinese
+188,"Set C2 w rice (Double Cooked Sliced Pork, Kung Pao Chicken, Fried Chinese Cabbage",chicken
+188,"Set C2 w rice (Double Cooked Sliced Pork, Kung Pao Chicken, Fried Chinese Cabbage",pork
+188,"Set C2 w rice (Double Cooked Sliced Pork, Kung Pao Chicken, Fried Chinese Cabbage",rice
+188,"Set C2 w rice (Double Cooked Sliced Pork, Kung Pao Chicken, Fried Chinese Cabbage",chinese
+189,Set C3 [Halal] Bibimbab w/ Chicken,chicken
+189,Set C3 [Halal] Bibimbab w/ Chicken,halal
+189,Set C3 [Halal] Bibimbab w/ Chicken,korean
+190,Set C3 [Halal] Fish Slice n Fried Fish Soup w/ Rice,fish
+190,Set C3 [Halal] Fish Slice n Fried Fish Soup w/ Rice,halal
+190,Set C3 [Halal] Fish Slice n Fried Fish Soup w/ Rice,rice
+190,Set C3 [Halal] Fish Slice n Fried Fish Soup w/ Rice,soup
+190,Set C3 [Halal] Fish Slice n Fried Fish Soup w/ Rice,local items
+191,Set C3 [Halal] Fried Yong Tau Foo w/ Noodle,chicken
+191,Set C3 [Halal] Fried Yong Tau Foo w/ Noodle,halal
+191,Set C3 [Halal] Fried Yong Tau Foo w/ Noodle,noodle
+191,Set C3 [Halal] Fried Yong Tau Foo w/ Noodle,local items
+192,Set C3 Bibimbab w/ Beef,beef
+192,Set C3 Bibimbab w/ Beef,korean
+193,Set C3 Chicken Cutlet,chicken
+193,Set C3 Chicken Cutlet,western
+194,Set C3 Tomyam Seafood Fried Rice,rice
+194,Set C3 Tomyam Seafood Fried Rice,thai
+195,"Set C3 w bun (Cumin Beef, Fried Cucumber with Eggs, Sweet & Sour Cabbage)",beef
+195,"Set C3 w bun (Cumin Beef, Fried Cucumber with Eggs, Sweet & Sour Cabbage)",bun
+195,"Set C3 w bun (Cumin Beef, Fried Cucumber with Eggs, Sweet & Sour Cabbage)",chinese
+196,"Set C3 w rice (Cumin Beef, Fried Cucumber with Eggs, Sweet & Sour Cabbage)",beef
+196,"Set C3 w rice (Cumin Beef, Fried Cucumber with Eggs, Sweet & Sour Cabbage)",rice
+196,"Set C3 w rice (Cumin Beef, Fried Cucumber with Eggs, Sweet & Sour Cabbage)",chinese
+197,Set C4 [Halal] Saba & Beef Bento,beef
+197,Set C4 [Halal] Saba & Beef Bento,halal
+197,Set C4 [Halal] Saba & Beef Bento,japanese
+198,Set C4 [Vegetarian] Spicy Hotpot w/Rice,spicy
+198,Set C4 [Vegetarian] Spicy Hotpot w/Rice,vegeatarian
+198,Set C4 [Vegetarian] Spicy Hotpot w/Rice,rice
+198,Set C4 [Vegetarian] Spicy Hotpot w/Rice,chinese
+199,Set C4 Beef Hor Fun,chinese
+200,Set C4 Japanese Fried Noodle,noodle
+200,Set C4 Japanese Fried Noodle,japanese
+201,Set C4 Marinated Beef w/ Rice,beef
+201,Set C4 Marinated Beef w/ Rice,rice
+201,Set C4 Marinated Beef w/ Rice,korean
+202,Set C4 Shanghai Fresh Fried Bun 4 pcs w Porridge,bun
+202,Set C4 Shanghai Fresh Fried Bun 4 pcs w Porridge,chinese
+203,"Set C4 w 2 buns (Braised Pork Ribs with Potato, Kung Pao Chicken, Fried Chinese Cabbage",chicken
+203,"Set C4 w 2 buns (Braised Pork Ribs with Potato, Kung Pao Chicken, Fried Chinese Cabbage",pork
+203,"Set C4 w 2 buns (Braised Pork Ribs with Potato, Kung Pao Chicken, Fried Chinese Cabbage",bun
+203,"Set C4 w 2 buns (Braised Pork Ribs with Potato, Kung Pao Chicken, Fried Chinese Cabbage",chinese
+204,"Set C4 w rice (Braised Pork Ribs with Potato, Kung Pao Chicken, Fried Chinese Cabbage",chicken
+204,"Set C4 w rice (Braised Pork Ribs with Potato, Kung Pao Chicken, Fried Chinese Cabbage",pork
+204,"Set C4 w rice (Braised Pork Ribs with Potato, Kung Pao Chicken, Fried Chinese Cabbage",rice
+204,"Set C4 w rice (Braised Pork Ribs with Potato, Kung Pao Chicken, Fried Chinese Cabbage",chinese
+205,Set C5 [Halal] Salmon & Chicken Bento,chicken
+205,Set C5 [Halal] Salmon & Chicken Bento,halal
+205,Set C5 [Halal] Salmon & Chicken Bento,japanese
+206,Set C5 [Halal] Shrimp & Salmon Bento,halal
+206,Set C5 [Halal] Shrimp & Salmon Bento,japanese
+207,Set C5 [Vegetarian] Fish Fragrance Eggplant,vegeatarian
+207,Set C5 [Vegetarian] Fish Fragrance Eggplant,chinese
+208,Set C5 Salmon & Pork Bento,pork
+208,Set C5 Salmon & Pork Bento,japanese
+209,"Set C5 w bun (Spicy Chicken, Sliced Fungus with Meat, Fish Flavored Eggplant)",spicy
+209,"Set C5 w bun (Spicy Chicken, Sliced Fungus with Meat, Fish Flavored Eggplant)",chicken
+209,"Set C5 w bun (Spicy Chicken, Sliced Fungus with Meat, Fish Flavored Eggplant)",chinese
+210,"Set C5 w rice (Spicy Chicken, Sliced Fungus with Meat, Fish Flavored Eggplant)",spicy
+210,"Set C5 w rice (Spicy Chicken, Sliced Fungus with Meat, Fish Flavored Eggplant)",chicken
+210,"Set C5 w rice (Spicy Chicken, Sliced Fungus with Meat, Fish Flavored Eggplant)",chinese
+211,Set C6 Lotus Root Pork Rib Soup with rice,pork
+211,Set C6 Lotus Root Pork Rib Soup with rice,rice
+211,Set C6 Lotus Root Pork Rib Soup with rice,soup
+211,Set C6 Lotus Root Pork Rib Soup with rice,local items
+212,Set C6 Shanghai Deep Fried Dumplings (6pcs),chinese
+213,Set C6 Sichuan Noodle,noodle
+213,Set C6 Sichuan Noodle,chinese
+214,Set C7 Bak Kut Teh w/ Rice,rice
+214,Set C7 Bak Kut Teh w/ Rice,local items
+215,Set C7 Fried Beef Noodle,beef
+215,Set C7 Fried Beef Noodle,noodle
+215,Set C7 Fried Beef Noodle,chinese
+216,Set C7 Sliced Pork w Meatball Porridge,pork
+216,Set C7 Sliced Pork w Meatball Porridge,local items
+217,Set C8 [Halal] Smoked Duck & Brown Soba Salad,halal
+217,Set C8 [Halal] Smoked Duck & Brown Soba Salad,none
+218,Set C8 [Halal] Smoked Duck & Fusilli Pesto Salad,halal
+218,Set C8 [Halal] Smoked Duck & Fusilli Pesto Salad,none
+219,Set C8 Yangzhou Fried Rice,rice
+219,Set C8 Yangzhou Fried Rice,chinese
+220,Set D1 Macau Fried Chicken Wings Rice (Tomato Sauce,chicken
+220,Set D1 Macau Fried Chicken Wings Rice (Tomato Sauce,rice
+220,Set D1 Macau Fried Chicken Wings Rice (Tomato Sauce,chinese
+221,Set D2 Sambal Chicken Fried Rice With Egg,chicken
+221,Set D2 Sambal Chicken Fried Rice With Egg,rice
+221,Set D2 Sambal Chicken Fried Rice With Egg,local items
+222,Set D3 Steamed Chicken Rice with Egg and Beancurd,chicken
+222,Set D3 Steamed Chicken Rice with Egg and Beancurd,rice
+222,Set D3 Steamed Chicken Rice with Egg and Beancurd,chinese
+223,Set D4 Stir Fried Bitter Gourd Fish With Rice and Egg,chicken
+223,Set D4 Stir Fried Bitter Gourd Fish With Rice and Egg,fish
+223,Set D4 Stir Fried Bitter Gourd Fish With Rice and Egg,rice
+223,Set D4 Stir Fried Bitter Gourd Fish With Rice and Egg,chinese
+224,Set D5 Xin Zhou Mee Hoon with Egg,chicken
+224,Set D5 Xin Zhou Mee Hoon with Egg,chinese
+225,Set D7 [Halal] Beef and Chicken Sandwich,beef
+225,Set D7 [Halal] Beef and Chicken Sandwich,chicken
+225,Set D7 [Halal] Beef and Chicken Sandwich,halal
+225,Set D7 [Halal] Beef and Chicken Sandwich,chinese
+226,Set D8 [Vegetarian] Soba & Tofu Salad,vegeatarian
+226,Set D8 [Vegetarian] Soba & Tofu Salad,chinese
+227,Sichuan Fragrance Diced Chicken w Rice,chicken
+227,Sichuan Fragrance Diced Chicken w Rice,rice
+227,Sichuan Fragrance Diced Chicken w Rice,chinese
+228,Sichuan Style Salad,chinese
+229,Sliced Pork w Dry Beancurd,pork
+229,Sliced Pork w Dry Beancurd,chinese
+230,Soy Sauce Chicken Bento,chicken
+230,Soy Sauce Chicken Bento,chinese
+231,Spicy Chicken Bento,spicy
+231,Spicy Chicken Bento,chicken
+231,Spicy Chicken Bento,chinese
+232,Spicy Mapo Tofu Bento,chinese
+233,Spicy Stir-fried Cuttlefish with Oyster Sauce Bento,fish
+233,Spicy Stir-fried Cuttlefish with Oyster Sauce Bento,chinese
+234,Steamed Pork Slices with Glutinous Rice Flour,pork
+234,Steamed Pork Slices with Glutinous Rice Flour,rice
+234,Steamed Pork Slices with Glutinous Rice Flour,chinese
+235,Stir-fried Chicken with Dried Chilli Bento,chicken
+235,Stir-fried Chicken with Dried Chilli Bento,chinese
+236,Sweet and Sour Fish Fillet Bento,sour
+236,Sweet and Sour Fish Fillet Bento,fish
+236,Sweet and Sour Fish Fillet Bento,chinese
+237,Tilapia & Beef Bento,beef
+237,Tilapia & Beef Bento,japanese
+238,Tilapia & Chicken Bento,chicken
+238,Tilapia & Chicken Bento,japanese
