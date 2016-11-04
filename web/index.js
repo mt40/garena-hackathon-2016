@@ -71,8 +71,24 @@ function getSelectedTags() {
   return $(".filter-tag-list .label-primary");
 }
 
+function notify() {
+  if (!Notification) {
+    console.log('Desktop notifications not available in your browser. Try Chromium.'); 
+    return;
+  }
+  var notification = new Notification('Notification title', {
+    icon: 'http://cdn.sstatic.net/stackexchange/img/logos/so/so-icon.png',
+    body: "Hey there! You've been notified!",
+  });
+
+  notification.onclick = function () {
+    window.open("http://stackoverflow.com/a/13328397/1269037");      
+  };
+}
+
 $(document).ready(function () {
     $(".filter-tag-list .label").click(function () {
+      notify();
       hideAllFoodItems();
      
       // Ensure the items that are selected by tags 
@@ -107,4 +123,8 @@ $(document).ready(function () {
         toggleButtonOrder($(this));
 
     });
+  
+  // Setup Chrome notification
+  if (Notification.permission !== "granted")
+    Notification.requestPermission();
 });
