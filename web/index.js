@@ -1,7 +1,8 @@
 "use strict";
 
+
 function findItemByTags(tag) {
-  let query = ":has(.label:contains('" + tag + "'))";
+  let query = ":not(:has(.label:contains('" + tag + "')))";
   return $(".food-item").filter(query);
 }
 

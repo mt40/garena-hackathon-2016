@@ -22,8 +22,8 @@
     var color = d3.scale.category20();
 
     var force = d3.layout.force()
-        .charge(-50)
-        .linkDistance(30)
+        .charge(-100)
+        .linkDistance(10)
         .size([width, height]);
 
     var svg = d3.select("body").append("svg")
@@ -52,7 +52,7 @@
 
         var node = gnodes.append("circle")
             .attr("class", "node")
-            .attr("r", 5)
+            .attr("r", 10)
             .style("fill", function (d) {
                 return color(d.group);
             })

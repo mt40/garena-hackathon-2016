@@ -2,7 +2,7 @@
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
-require_once 'vendor/autoload.php';
+require_once '../vendor/autoload.php';
 
 use GraphAware\Neo4j\Client\ClientBuilder;
 
@@ -61,10 +61,10 @@ foreach ($result->getRecords() as $record) {
 
 
 $query = "MATCH p=(c1: Champion)-[r:SAME_MATCH]-(c2: Champion)
-WHERE r.compatibility >1
+WHERE r.compatibility > 10000000
 RETURN c1.champion_name, c2.champion_name, r.compatibility LIMIT 1000;";
 $result = $client->run($query);
 foreach ($result->getRecords() as $record) {
-    $json_array["links"][] = new Link($foodArray[$record->value('c1.champion_name')], $foodArray[$record->value('c2.champion_name')], 1);//$record->value('r.compatibility')/10000);
+    $json_array["links"][] = new Link($foodArray[$record->value('c1.champion_name')], $foodArray[$record->value('c2.champion_name')],$record->value('r.compatibility')/1000000);
 }
 print json_encode($json_array);
