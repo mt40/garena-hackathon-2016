@@ -3,26 +3,26 @@ body, html {
     padding: 0;
 }
 
-.top-cover-bg {
-    background-color: black;
-    height: 300px;
-    width: 100%;
-}
-
 .top-cover {
-    background-color: black;
-    background-image: url('assets/images/cover.jpeg');
-    background-position: right top;
-    background-attachment: fixed;
-    background-size: contain;
-    height: 300px;
-    width: 100%;
-    opacity: 0.8;
+  background-color: black;
+  background-image: url('assets/images/cover.jpeg');
+  background-position: right top;
+  background-attachment: fixed;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 100%;
+  top: 0;
 }
 
 .filter-tag-list {
-  margin-left: 80px;
+  margin-left: 15px;
+  margin-right: 15px;
   font-size: 1.1em;
+}
+
+.label-default {
+  background: DarkGray;
 }
 
 .food-grid {
@@ -51,7 +51,7 @@ body, html {
 }
 
 .panel {
-  height: 350px;
+  max-height: 500px;
 }
 
 .thumbnail-img {        
@@ -61,4 +61,14 @@ body, html {
 
 .text-gray {
   color: darkgray;
+}
+
+.well {
+  border-radius: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.label-success {
+  background: #7fb6d3;
 }
