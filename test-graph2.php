@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 <style>
-
     .node {
         stroke: #fff;
         stroke-width: 1.5px;
@@ -11,7 +10,6 @@
         stroke: #999;
         stroke-opacity: .6;
     }
-
 </style>
 <body></body>
 <script src="http://d3js.org/d3.v2.min.js?2.9.6"></script>
@@ -22,8 +20,8 @@
     var color = d3.scale.category20();
 
     var force = d3.layout.force()
-        .charge(-50)
-        .linkDistance(30)
+        .charge(-100)
+        .linkDistance(10)
         .size([width, height]);
 
     var svg = d3.select("body").append("svg")
@@ -52,7 +50,7 @@
 
         var node = gnodes.append("circle")
             .attr("class", "node")
-            .attr("r", 5)
+            .attr("r", 10)
             .style("fill", function (d) {
                 return color(d.group);
             })
@@ -82,8 +80,6 @@
             gnodes.attr("transform", function (d) {
                 return 'translate(' + [d.x, d.y] + ')';
             });
-
-
         });
     });
 
