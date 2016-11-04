@@ -1,18 +1,26 @@
 "use strict";
 
-
-function findItemByTags(tag) {
-    let query = ":not(:has(.label:contains('" + tag + "')))";
-    return $(".food-item").filter(query);
+function findItemContainTags(tags) {
+  let query = "";
+  tags.each(function(index) {
+    query += ":has(.label:contains('" + $(this).text() + "'))";
+    if(index < tags.length - 1)
+      query += ",";
+  });
+  return $(".food-item").filter(query);
 }
 
-function toggleOpacityByTag(tag) {
-    let target = findItemByTags(tag);
-    let opacity = target.css("opacity");
-    if (opacity < 1.0)
-        target.fadeTo(0.5, 1);
-    else
-        target.fadeTo(0.5, 0.3);
+function showFoodItemByTags(tags) {
+  let target = findItemContainTags(tags);
+  target.fadeTo(0.5, 1);
+}
+
+function hideAllFoodItems() {
+  $(".food-item").fadeTo(0.5, 0.3);
+}
+
+function showAllFoodItems() {
+  $(".food-item").fadeTo(0.5, 1);
 }
 
 function toggleTagSelection(tag_obj) {
@@ -59,11 +67,25 @@ function notifySuccess(data) {
     }
 }
 
+function getSelectedTags() {
+  return $(".filter-tag-list .label-primary");
+}
+
 $(document).ready(function () {
     $(".filter-tag-list .label").click(function () {
-        let tag = $(this).text();
-        toggleTagSelection($(this));
-        toggleOpacityByTag(tag);
+      hideAllFoodItems();
+     
+      // Ensure the items that are selected by tags 
+      // are visible
+      toggleTagSelection($(this));
+      let tags = getSelectedTags();
+      if(tags.length == 0 || findItemContainTags(tags).length == 0) { 
+        // nothing is selected, show all
+        showAllFoodItems();
+      }
+      else {
+        showFoodItemByTags(tags);
+      }
     });
 
     $(".pulse-button").click(function () {
