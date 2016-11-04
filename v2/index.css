@@ -87,3 +87,15 @@ body, html {
     align-content: center;
     padding: auto;
 }
+
+.tag {
+    margin-right: 5px !important;
+}
+
+.food-image{
+    height: 200px !important;
+}
+
+.food-item{
+    height: 400px !important;
+}

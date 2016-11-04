@@ -59,12 +59,19 @@ function toggleItemSelection(username, food_id) {
 }
 
 function notifySuccess(data) {
+    console.log(data);
     var response = JSON.parse(data);
-    if (response.action == "ordered") {
-        alert("Successfully placed order");
-    } else if (response.action == "removed") {
-        alert("Order withdrawn");
+    alert(response.action);
+    if(response.status == "Success" || response.status == "Removed"){
+        var item_id = response.food_id;
+        document.getElementById("badge-" + parseInt(item_id)).innerHTML = response.new_number;
+        if (response.status == "Success") {
+            document.getElementById("button-" + parseInt(item_id)).className = "btn btn-primary btn-order"
+        } else {
+            document.getElementById("button-" + parseInt(item_id)).className = "btn btn-default btn-order"
+        }
     }
+
 }
 
 function getSelectedTags() {
@@ -73,7 +80,7 @@ function getSelectedTags() {
 
 function notify() {
   if (!Notification) {
-    console.log('Desktop notifications not available in your browser. Try Chromium.'); 
+    console.log('Desktop notifications not available in your browser. Try Chromium.');
     return;
   }
   var notification = new Notification('Notification title', {
@@ -82,7 +89,7 @@ function notify() {
   });
 
   notification.onclick = function () {
-    window.open("http://stackoverflow.com/a/13328397/1269037");      
+    window.open("http://stackoverflow.com/a/13328397/1269037");
   };
 }
 
@@ -116,15 +123,22 @@ $(document).ready(function () {
     /**
      * API request related code
      */
-    $(".btn-order").click(function () {
-        let food_id = $(this).closest(".food-item-id").text();
-        var username = document.getElementById("username").innerHTML;
-        toggleItemSelection(username, food_id);
-        toggleButtonOrder($(this));
-
-    });
+    //$(".btn-order").click(function () {
+    //    //let food_id = $(this).closest(".food-item-id").text()
+    //    //console.log(food_id);
+    //    //var username = document.getElementById("username").innerHTML;
+    //    //toggleItemSelection(username, food_id);
+    //    toggleButtonOrder($(this));
+    //
+    //});
   
   // Setup Chrome notification
   if (Notification.permission !== "granted")
     Notification.requestPermission();
 });
+
+function toggleFoodOrder(btn,food_id)
+{
+    var username = document.getElementById("username").innerHTML;
+    toggleItemSelection(username, food_id);
+}
