@@ -1,0 +1,64 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.top-cover-bg {
+    background-color: black;
+    height: 300px;
+    width: 100%;
+}
+
+.top-cover {
+    background-color: black;
+    background-image: url('assets/images/cover.jpeg');
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: contain;
+    height: 300px;
+    width: 100%;
+    opacity: 0.8;
+}
+
+.filter-tag-list {
+  margin-left: 80px;
+  font-size: 1.1em;
+}
+
+.food-grid {
+  margin-top: 20px;
+  margin-bottom: 50px;
+  background-color: white;
+}
+
+.cover-title {
+  position: relative;
+  top: 0px;
+  width: 100%;
+  text-align: center;
+  color: white;
+  line-height: 300px;
+  font-size: 5em;
+  text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+}
+
+.btn-order {
+  width: 100%;
+}
+
+.food-desc {
+  font-size: 0.7em;
+}
+
+.panel {
+  height: 350px;
+}
+
+.thumbnail-img {        
+    height: 300px;
+    overflow: auto;
+}
+
+.text-gray {
+  color: darkgray;
+}
