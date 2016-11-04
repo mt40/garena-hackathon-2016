@@ -99,3 +99,7 @@ body, html {
 .food-item{
     height: 400px !important;
 }
+
+.panel-success {
+    background: lightblue !important;
+}

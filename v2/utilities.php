@@ -274,10 +274,10 @@ class Utilities
         }
     }
 
-    public function removeTodayFoodOrder($username, $food_id)
+    public function removeTodayFoodOrder($username)
     {
-        $sql = "DELETE FROM user_food WHERE username = ? AND date = ? AND food_id = ?;";
-        $paramArray = array($username, date("Y-m-d", time()), $food_id);
+        $sql = "DELETE FROM user_food WHERE username = ? AND date = ?;";
+        $paramArray = array($username, date("Y-m-d", time()));
         $stmt = $this->pdo->prepare($sql);
         $stmt->execute($paramArray);
     }

@@ -41,7 +41,24 @@ foreach ($foodContainer as $food) {
     <link rel="stylesheet" type="text/css" href="popup.css">
     <script src="lib/css/jquery-3.1.1.min.js"></script>
 </head>
+
 <body>
+<nav class="navbar navbar-default navbar-static-top">
+    <div class="container-fluid">
+        <ul class="nav navbar-nav">
+            <li>
+                <a href="user.php">Profile</a>
+            </li>
+            <li class="active">
+                <a href="index.php">Book Dinner <span class="sr-only">(current)</span></a>
+            </li>
+            <li>
+                <a href="#" onclick="feelingLucky()">I'm feelin' lucky!</a>
+            </li>
+        </ul>
+        <p class="navbar-text navbar-right">Signed in as <b><?php print $user->username; ?></b>&nbsp;&nbsp;</p>
+    </div>
+</nav>
 <div class="top-cover well"><h1 class="cover-title">Dinner Addicts</h1></div>
 
 <!-- Tag lists -->
@@ -57,13 +74,13 @@ foreach ($foodContainer as $food) {
             </div>
         </div>
 
-        <div class="col-sm-2">
-            <button class="pulse-button pull-right">
-          <span>
-            <h4><i class="fa fa-share-alt" aria-hidden="true"></i> Explore</h4>
-          </span>
-            </button>
-        </div>
+<!--        <div class="col-sm-2">-->
+<!--            <button class="pulse-button pull-right">-->
+<!--          <span>-->
+<!--            <h4><i class="fa fa-share-alt" aria-hidden="true"></i> Explore</h4>-->
+<!--          </span>-->
+<!--            </button>-->
+<!--        </div>-->
     </div>
 </div>
 
@@ -74,7 +91,17 @@ foreach ($foodContainer as $food) {
         <?php foreach ($foodContainer as $food):
             /** @var Food $food */ ?>
             <div class="col-sm-3">
-                <div class="panel panel-default food-item">
+                <div class="panel <?php
+
+                $recommended = false;
+                foreach ($user->recommended_foods as $rec_food) {
+                    if ($rec_food->food_id == $food->food_id) {
+                        $recommended = true;
+                    }
+                }
+                $recommended ? print "panel-success" : print "panel-default";
+
+                ?> food-item">
                     <div class="panel-body">
                         <i class="thumbnail">
                             <img class="food-image" src="food_image/<?php print $food->food_id; ?>.PNG"/>

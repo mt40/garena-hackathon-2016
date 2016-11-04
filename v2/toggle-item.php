@@ -8,7 +8,7 @@ $utilities = new Utilities();
 $old_food_id = $utilities->userHasOrderedFoodToday($_POST["username"]);
 if ($old_food_id) {
     if ($old_food_id == $_POST["food_id"]) {
-        $utilities->removeTodayFoodOrder($_POST["username"], $_POST["food_id"]);
+        $utilities->removeTodayFoodOrder($_POST["username"]);
         $response["status"] = "Removed";
         $response["action"] = "Removed food.";
     } else {

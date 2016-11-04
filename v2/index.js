@@ -144,3 +144,18 @@ function toggleFoodOrder(btn, food_id) {
     var username = document.getElementById("username").innerHTML;
     toggleItemSelection(username, food_id);
 }
+
+function feelingLucky() {
+    $.ajax({
+        type: 'POST',
+        url: "feeling-lucky.php",
+        data: {
+            "action": "lucky"
+        },
+        success: function (data) {
+            console.log(data);
+            alert("You have ordered a mysterious food for yourself. Proceed to the pantry to find out what it is!");
+            //notifySuccess(data);
+        }
+    })
+}
