@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 <style>
-
     .node {
         stroke: #fff;
         stroke-width: 1.5px;
@@ -11,7 +10,6 @@
         stroke: #999;
         stroke-opacity: .6;
     }
-
 </style>
 <body></body>
 <script src="http://d3js.org/d3.v2.min.js?2.9.6"></script>
@@ -82,8 +80,6 @@
             gnodes.attr("transform", function (d) {
                 return 'translate(' + [d.x, d.y] + ')';
             });
-
-
         });
     });
 

@@ -6,11 +6,15 @@ require_once "../class.php";
 require_once '../vendor/autoload.php';
 use GraphAware\Neo4j\Client\ClientBuilder;
 
+if (!isset($_COOKIE["username"])) {
+    header("Location: login.php");
+}
+
 $client = ClientBuilder::create()
     ->addConnection('default', 'http://neo4j:123456@localhost:7474')
     ->build();
 
-$query = "MATCH (c:Champion) RETURN c.champion_id,c.champion_name, c.ability_icon_1, c.tag";
+$query = "MATCH (c:Champion) RETURN c.champion_id,c.champion_name, c.ability_icon_1, c.tag LIMIT 10";
 $result = $client->run($query);
 $foodArray = array();
 foreach ($result->getRecords() as $record) {
@@ -37,6 +41,7 @@ foreach ($result->getRecords() as $record) {
 <div class="top-cover well"><h1 class="cover-title">??</h1></div>
 
 <!-- Tag lists -->
+<div class="hidden" id="username"><?php print $_COOKIE["username"]; ?></div>
 <div class="container-fluid filter-tag-list">
     <div class="row">
         <div class="col-sm-10">
@@ -111,7 +116,7 @@ foreach ($result->getRecords() as $record) {
                             <button type="button" class="btn btn-default btn-order" aria-label="Left Align">
                                 <span class="glyphicon glyphicon-cutlery" aria-hidden="true"></span>
                                 <span class="btn-title">&nbsp;&nbsp;Order&nbsp;&nbsp;</span>
-                                <span class="badge">4</span>
+                                <span class="badge"><?php print rand(1, 10); ?></span>
                             </button>
                         </div>
 
@@ -143,9 +148,9 @@ foreach ($result->getRecords() as $record) {
     var color = d3.scale.category20();
 
     var force = d3.layout.force()
-        .gravity(0.1)
-        .charge(-150)
-        .linkDistance(40)
+        .gravity(0.05)
+        .charge(-100)
+        .linkDistance(100)
         .size([width *= 2 / 3, height *= 2 / 3]);
 
     var svg = d3.select("#network").append("svg")
@@ -175,7 +180,7 @@ foreach ($result->getRecords() as $record) {
 
         var node = gnodes.append("circle")
             .attr("class", "node")
-            .attr("r", 15)
+            .attr("r", radius)
             .style("fill", function (d) {
                 return color(d.group);
             })
@@ -188,26 +193,6 @@ foreach ($result->getRecords() as $record) {
 
         console.log(labels);
 
-//        force.on("tick", function () {
-//            link.attr("x1", function (d) {
-//                    return d.source.x;
-//                })
-//                .attr("y1", function (d) {
-//                    return d.source.y;
-//                })
-//                .attr("x2", function (d) {
-//                    return d.target.x;
-//                })
-//                .attr("y2", function (d) {
-//                    return d.target.y;
-//                });
-//
-//            gnodes.attr("transform", function (d) {
-//                return 'translate(' + [d.x, d.y] + ')';
-//            });
-//
-//
-//        });
         force
             .nodes(graph.nodes)
             .links(graph.links)
@@ -215,13 +200,6 @@ foreach ($result->getRecords() as $record) {
             .start();
 
         function tick() {
-//            node.attr("cx", function (d) {
-//                    return d.x = Math.max(radius, Math.min(width - radius, d.x));
-//                })
-//                .attr("cy", function (d) {
-//                    return d.y = Math.max(radius, Math.min(height - radius, d.y));
-//                });
-
             link.attr("x1", function (d) {
                     return d.source.x;
                 })
