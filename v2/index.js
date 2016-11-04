@@ -1,26 +1,28 @@
 "use strict";
 
 function findItemContainTags(tags) {
-  let query = "";
-  tags.each(function(index) {
-    query += ":has(.label:contains('" + $(this).text() + "'))";
-    if(index < tags.length - 1)
-      query += ",";
-  });
-  return $(".food-item").filter(query);
+    let query = "";
+    tags.each(function (index) {
+        query += ":has(.label:contains('" + $(this).text().trim() + "'))";
+        if (index < tags.length - 1)
+            query += ",";
+
+    });
+    console.log(query);
+    return $(".food-item").filter(query);
 }
 
 function showFoodItemByTags(tags) {
-  let target = findItemContainTags(tags);
-  target.fadeTo(0.5, 1);
+    let target = findItemContainTags(tags);
+    target.fadeTo(0.5, 1);
 }
 
 function hideAllFoodItems() {
-  $(".food-item").fadeTo(0.5, 0.3);
+    $(".food-item").fadeTo(0.5, 0.3);
 }
 
 function showAllFoodItems() {
-  $(".food-item").fadeTo(0.5, 1);
+    $(".food-item").fadeTo(0.5, 1);
 }
 
 function toggleTagSelection(tag_obj) {
@@ -62,7 +64,7 @@ function notifySuccess(data) {
     console.log(data);
     var response = JSON.parse(data);
     alert(response.action);
-    if(response.status == "Success" || response.status == "Removed"){
+    if (response.status == "Success" || response.status == "Removed") {
         var item_id = response.food_id;
         document.getElementById("badge-" + parseInt(item_id)).innerHTML = response.new_number;
         if (response.status == "Success") {
@@ -75,40 +77,41 @@ function notifySuccess(data) {
 }
 
 function getSelectedTags() {
-  return $(".filter-tag-list .label-primary");
+    return $(".filter-tag-list .label-primary");
 }
 
 function notify() {
-  if (!Notification) {
-    console.log('Desktop notifications not available in your browser. Try Chromium.');
-    return;
-  }
-  var notification = new Notification('Notification title', {
-    icon: 'http://cdn.sstatic.net/stackexchange/img/logos/so/so-icon.png',
-    body: "Hey there! You've been notified!",
-  });
+    if (!Notification) {
+        console.log('Desktop notifications not available in your browser. Try Chromium.');
+        return;
+    }
+    var notification = new Notification('Notification title', {
+        icon: 'http://cdn.sstatic.net/stackexchange/img/logos/so/so-icon.png',
+        body: "Hey there! You've been notified!",
+    });
 
-  notification.onclick = function () {
-    window.open("http://stackoverflow.com/a/13328397/1269037");
-  };
+    notification.onclick = function () {
+        window.open("http://stackoverflow.com/a/13328397/1269037");
+    };
 }
 
 $(document).ready(function () {
     $(".filter-tag-list .label").click(function () {
-      notify();
-      hideAllFoodItems();
-     
-      // Ensure the items that are selected by tags 
-      // are visible
-      toggleTagSelection($(this));
-      let tags = getSelectedTags();
-      if(tags.length == 0 || findItemContainTags(tags).length == 0) { 
-        // nothing is selected, show all
-        showAllFoodItems();
-      }
-      else {
-        showFoodItemByTags(tags);
-      }
+        //notify();
+        hideAllFoodItems();
+
+        // Ensure the items that are selected by tags
+        // are visible
+        toggleTagSelection($(this));
+        let tags = getSelectedTags();
+        console.log(tags);
+        if (tags.length == 0 || findItemContainTags(tags).length == 0) {
+            // nothing is selected, show all
+            showAllFoodItems();
+        }
+        else {
+            showFoodItemByTags(tags);
+        }
     });
 
     $(".pulse-button").click(function () {
@@ -131,14 +134,13 @@ $(document).ready(function () {
     //    toggleButtonOrder($(this));
     //
     //});
-  
-  // Setup Chrome notification
-  if (Notification.permission !== "granted")
-    Notification.requestPermission();
+
+    // Setup Chrome notification
+    if (Notification.permission !== "granted")
+        Notification.requestPermission();
 });
 
-function toggleFoodOrder(btn,food_id)
-{
+function toggleFoodOrder(btn, food_id) {
     var username = document.getElementById("username").innerHTML;
     toggleItemSelection(username, food_id);
 }
