@@ -14,11 +14,11 @@ $client = ClientBuilder::create()
     ->addConnection('default', 'http://neo4j:123456@localhost:7474')
     ->build();
 
-$query = "MATCH (c:Champion) RETURN c.champion_id,c.champion_name, c.ability_icon_1, c.tag LIMIT 10";
+$query = "MATCH (f:Food) RETURN f.id,f.english_name, f.chinese_name, f.tag";
 $result = $client->run($query);
 $foodArray = array();
 foreach ($result->getRecords() as $record) {
-    $foodArray[] = new Food($record->value('c.champion_id'), $record->value('c.champion_name'), $record->value('c.ability_icon_1'), $record->value('c.tag'));
+    $foodArray[] = new Food($record->value('f.id'), $record->value('f.english_name'), $record->value('f.chinese_name'), $record->value('f.tag'));
 }
 ?>
 
@@ -38,7 +38,7 @@ foreach ($result->getRecords() as $record) {
 </head>
 
 <body>
-<div class="top-cover well"><h1 class="cover-title">??</h1></div>
+<div class="top-cover well"><h1 class="cover-title">Dinner Addicts</h1></div>
 
 <!-- Tag lists -->
 <div class="hidden" id="username"><?php print $_COOKIE["username"]; ?></div>
@@ -101,16 +101,15 @@ foreach ($result->getRecords() as $record) {
                         </i>
 
                         <div class="caption">
-                            <h4><?php print $food->foodName; ?></h4>
+                            <h5><?php print $food->foodName; ?></h5>
                             <p>
                                 <?php print $food->foodLocalizations; ?>
                             </p>
-                            <p class="food-desc">
-                                <?php print $food->foodLocalizations; ?>
-                            </p>
+<!--                            <p class="food-desc">-->
+<!--                                --><?php //print $food->foodLocalizations; ?>
+<!--                            </p>-->
                             <div class="food-label-list">
-                                <span class="label label-default">spicy</span>
-                                <span class="label label-default">salty</span>
+                                <span class="label label-default"><?php print $food->foodAttributes;?></span>
                             </div>
                             <br/>
                             <button type="button" class="btn btn-default btn-order" aria-label="Left Align">
@@ -127,6 +126,10 @@ foreach ($result->getRecords() as $record) {
     </div>
     <!--    </div>-->
 </div>
+<div class="container-fluid">
+    <a href="logout.php" class="btn btn-info pull-right">Logout</a>
+</div>
+<br>
 
 <!--  Popup -->
 <div class="popup">
@@ -137,7 +140,6 @@ foreach ($result->getRecords() as $record) {
     </button>
     <div class="popup-content" id="network"></div>
 </div>
-
 <script src="index.js"></script>
 <script src="http://d3js.org/d3.v2.min.js?2.9.6"></script>
 <script>
